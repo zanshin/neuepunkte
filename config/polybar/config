@@ -103,7 +103,8 @@ wm-restack = i3
 monitor = eDP-1
 
 font-0 = SFNS Display Regular:size=11;0
-font-1 = FontAwesome:size=11
+font-1 = "Hack:style=Regular:size=11"
+font-2 = "FontAwesome:style=regular:size=15;2"
 
 ; background = #00000000
 foreground = ${colors.foreground}
@@ -140,11 +141,11 @@ module-margin-right = 2
 [bar/top]
 ; {{{
 inherit = bar/base
-width = 1600
+; width = 1600
+; offset-x = 160
+; offset-y = 8
 height = 32
-offset-x = 160
-offset-y = 8
-radius = 6.0
+; radius = 6.0
 fixed-center = true
 
 background = #cc222222
@@ -156,7 +157,7 @@ tray-detached = false
 tray-background = #cc222222
 ; tray-offset-x = 0
 ; tray-offset-y = 0
-; tray-scale = 1.0
+tray-scale = 1.0
 
 modules-left = logomenu i3
 modules-center = xwindow
@@ -169,8 +170,8 @@ modules-right = date vitalslauncher powermenulauncher
 inherit = bar/base
 
 width = 700
-height = 27
-radius = 0
+height = 32
+radius = 6
 
 offset-x = 1060
 offset-y = 42
@@ -178,7 +179,7 @@ offset-y = 42
 separator = %{F#33}|
 
 font-0 = Hack-Regular:size=11;0
-font-1 = FontAwesome:size=11
+; font-1 = "Font Awesome 5 Free Regular:size=21"
 
 modules-center = cpu memory temperature wlan battery closevitalsbar
 
@@ -191,7 +192,7 @@ override-redirect = true
 inherit bar/base
 
 width = 750
-height = 27
+height = 32
 radius = 0
 
 offset-x = 1010
@@ -200,7 +201,7 @@ offset-y = 45
 separator = %{F#33}|
 
 font-0 = Hack-Regular:size=12;0
-font-1 = FontAwesome:size=12
+; font-1 = FontAwesome:size=12
 
 modules-center = lock logout suspend reboot poweroff closepowermenubar
 

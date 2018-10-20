@@ -15,7 +15,7 @@ xinterval=60
 yoffset=52
 width=600
 height=600
-terminal=terminator
+terminal=termite
 
 
 x=$(expr $xoffset + $xinterval \* $2 - $xinterval)
