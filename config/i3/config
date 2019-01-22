@@ -3,7 +3,7 @@
 # Please see http://i3wm.org/docs/userguide.html for a complete reference
 
 set $mod Mod1
-set $term termite
+set $term terminator -p Chalk
 set $menu i3-dmenu-desktop
 set $barcmd i3status
 set $lockcmd i3lock
