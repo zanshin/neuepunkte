@@ -98,15 +98,15 @@ tray-scale = 1.0
 [bar/bottom]
 inherit = bar/base
 bottom = true
-width = 70%
-offset-x = 15%
+width = 80%
+offset-x = 10%
 offset-y = 12
 padding-left = 4
 modules-left   = hostname kernel versions
 modules-center = ip dns updates checkreboot
 modules-right  = filesystem
 
-font-1 = "Hack:style=Regular:size=9"
+font-1 = "Hack:style=Regular:size=7"
 ; label-foreground = #8FA1B3
 label-foreground = #ffffff
 format-foreground = #00a0d1
@@ -115,7 +115,7 @@ format-foreground = #00a0d1
 [module/i3max]
 type = internal/i3
 pin-workspaces = true
-strip-wsnumbers = false
+strip-wsnumbers = true
 index-sort = true
 enable-click = true
 enable-scroll = false
@@ -123,26 +123,43 @@ wrapping-scroll = false
 reverse-scroll = false
 fuzzy-match = true
 
-label-unfocused = %index% %icon%
+; label-unfocused = %index% %icon%
+label-unfocused = %icon%
 label-unfocused-padding = 2
 label-unfocused-foreground = #ffffff
 
-label-focused = %index% %icon%
+; label-focused = %index% %icon%
+label-focused = %icon%
 label-focused-foreground = #ffffff
 label-focused-background = #65737E
 label-focused-underline = #fba922
 label-focused-padding = 2
 
-ws-icon-0 = 1;
-ws-icon-1 = 2;
-ws-icon-2 = 3;
-ws-icon-3 = 4;
-ws-icon-4 = 5;
-ws-icon-5 = 6;
-ws-icon-6 = 7;
-ws-icon-7 = 8;
-ws-icon-8 = 9;
-ws-icon-9 = 10;
+label-urgent = %icon%
+label-urgent-foreground = #ff0000
+label-urgent-padding = 2
+
+; ws-icon-0 = 1;
+; ws-icon-1 = 2;
+; ws-icon-2 = 3;
+; ws-icon-3 = 4;
+; ws-icon-4 = 5;
+; ws-icon-5 = 6;
+; ws-icon-6 = 7;
+; ws-icon-7 = 8;
+; ws-icon-8 = 9;
+; ws-icon-9 = 10;
+
+ws-icon-0 = 1;term
+ws-icon-1 = 2;www
+ws-icon-2 = 3;irc
+ws-icon-3 = 4;chat
+ws-icon-4 = 5;code
+ws-icon-5 = 6;cal
+ws-icon-6 = 7;seven
+ws-icon-7 = 8;eight
+ws-icon-8 = 9;nine
+ws-icon-9 = 10;ten
 
 [module/i3min]
 type = internal/i3
@@ -164,6 +181,10 @@ label-focused-foreground = #ffffff
 label-focused-background = #65737E
 label-focused-underline = #fba922
 label-focused-padding = 2
+
+label-urgent = %index%
+label-urgent-foreground = #ff0000
+label-urgent-padding = 2
 
 
 [module/date]
