@@ -159,7 +159,7 @@ ws-icon-5 = 6;cal
 ws-icon-6 = 7;seven
 ws-icon-7 = 8;eight
 ws-icon-8 = 9;nine
-ws-icon-9 = 10;ten
+ws-icon-9 = 0;ten
 
 [module/i3min]
 type = internal/i3
