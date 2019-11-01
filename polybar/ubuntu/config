@@ -119,7 +119,7 @@ format-foreground = #00a0d1
 
 [module/i3max]
 type = internal/i3
-pin-workspaces = false
+pin-workspaces = true
 strip-wsnumbers = false
 index-sort = true
 enable-click = true
@@ -155,7 +155,7 @@ ws-icon-9 = 10;
 
 [module/i3min]
 type = internal/i3
-pin-workspaces = false
+pin-workspaces = true
 strip-wsnumbers = false
 index-sort = true
 enable-click = true
@@ -336,6 +336,6 @@ label-foreground = #A3BE8C
 type = custom/script
 exec = ~/.config/scripts/vpn.sh
 interval = 9
-label-basckground = #A3BE8C
+label-foreground = #BF616A
 
 ; vim: ft=cfg
