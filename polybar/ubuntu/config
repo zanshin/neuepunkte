@@ -1,0 +1,335 @@
+[bar/base]
+
+; monitor = eDP-1
+; monitor = eDP1
+; monitor = DVI-1
+monitor = ${env:MONITOR:}
+
+override-redirect = true
+bottom = true
+fixed-center = true
+width = 30%
+height = 40
+background = #EE2B303B
+foreground = #000
+radius = 10.0
+line-size = 0
+line-color = #f00
+padding-right = 4
+module-margin = 1
+
+font-0 = SFNS Display Regular:size=11;2
+font-1 = "Hack:style=Regular:size=11"
+; font-2 = Font Awesome 5 Free:style=regular:size=15;2"
+; font-3 = "FontAwesome:style=regular:size=15;2"
+font-2 = "Font Awesome 5 Free:style=Regular:size=11;2"
+font-3 = "Font Awesome 5 Free:style=Solid:size=11;2"
+font-4 = "Font Awesome 5 Brands:style=Regular:size=11;2"
+
+separator =
+spacing = 0
+dim-value = 1.0
+wm-name = i3
+
+dpi-x = 96
+dpi-y = 96
+
+enable-ipc = false
+
+
+[bar/topleft]
+inherit = bar/base
+bottom = false
+offset-x = 0%
+offset-y = 12
+modules-left   = i3max
+modules-center =
+modules-right  =
+
+
+[bar/topcenter]
+inherit = bar/base
+bottom = false
+offset-x = 35%
+offset-y = 12
+modules-left   =
+modules-center = title
+modules-right  =
+
+font-1 = "Hack:style=Regular:size=9"
+
+[bar/topright]
+inherit = bar/base
+bottom = false
+offset-x = 70%
+offset-y = 12
+modules-left   =
+modules-center =
+; modules-right  = cpu memory battery temperature wireless-network date
+modules-right  = cpu memory temperature date
+
+tray-position = right
+tray-detached = false
+tray-maxsize = 16
+tray-background = ${root.background}
+tray-offset-x = 0
+tray-offset-y = 0
+tray-padding = 0
+tray-scale = 1.0
+
+[bar/minimal]
+inherit = bar/base
+bottom = false
+offset-x = 35%
+offset-y = 12
+width = 30%
+fixed-center = true
+modules-left = i3min
+modules-center =
+; modules-right = battery wireless-network date
+; modules-right = wireless-network date
+modules-right = date
+click-left = ~/.config/polybar/wide.sh
+
+tray-position = right
+tray-detached = false
+tray-maxsize = 16
+tray-background = ${root.background}
+tray-offset-x = 0
+tray-offset-y = 0
+tray-padding = 0
+tray-scale = 1.0
+
+[bar/bottom]
+inherit = bar/base
+bottom = true
+width = 70%
+offset-x = 15%
+offset-y = 12
+padding-left = 4
+modules-left   = hostname kernel versions
+modules-center = ip dns
+modules-right  = filesystem
+
+font-1 = "Hack:style=Regular:size=9"
+; label-foreground = #8FA1B3
+label-foreground = #ffffff
+format-foreground = #00a0d1
+
+
+[module/i3max]
+type = internal/i3
+pin-workspaces = false
+strip-wsnumbers = false
+index-sort = true
+enable-click = true
+enable-scroll = false
+wrapping-scroll = false
+reverse-scroll = false
+fuzzy-match = true
+
+label-unfocused = %index% %icon%
+label-unfocused-padding = 2
+label-unfocused-foreground = #ffffff
+
+label-focused = %index% %icon%
+label-focused-foreground = #ffffff
+label-focused-background = #65737E
+label-focused-underline = #fba922
+label-focused-padding = 2
+
+label-urgent = %index% %icon%
+label-urgent-foreground = #ff0000
+label-urgent-padding = 2
+
+ws-icon-0 = 1;
+ws-icon-1 = 2;
+ws-icon-2 = 3;
+ws-icon-3 = 4;
+ws-icon-4 = 5;
+ws-icon-5 = 6;
+ws-icon-6 = 7;
+ws-icon-7 = 8;
+ws-icon-8 = 9;
+ws-icon-9 = 10;
+
+[module/i3min]
+type = internal/i3
+pin-workspaces = false
+strip-wsnumbers = false
+index-sort = true
+enable-click = true
+enable-scroll = false
+wrapping-scroll = false
+reverse-scroll = false
+fuzzy-match = true
+
+label-unfocused = %index% %icon%
+label-unfocused-padding = 2
+label-unfocused-foreground = #ffffff
+
+label-focused = %index% %icon%
+label-focused-foreground = #ffffff
+label-focused-background = #65737E
+label-focused-underline = #fba922
+label-focused-padding = 2
+
+label-urgent = %index% %icon%
+label-urgent-foreground = #ff0000
+label-urgent-padding = 2
+
+[module/date]
+type = internal/date
+interval = 1.0
+date = %Y-%m-%d%
+time = %l:%M
+date-alt = %A, %d %B %Y
+time-alt = %H:%M:%S
+
+label = %time%
+label-font = 0
+label-foreground = #fff
+
+[module/wireless-network]
+type = internal/network
+interface = wlp1s0
+
+label-connected = %essid%
+format-connected = <ramp-signal>
+label-connected-foreground = #A3BE8C
+
+format-disconnected = <label-disconnected>
+label-disconnected = Offline
+label-disconnected-foreground = #BF616A
+
+ramp-signal-foreground = #A3BE8C
+ramp-signal-0 = 
+ramp-signal-1 = 
+ramp-signal-2 = 
+ramp-signal-3 = 
+ramp-signal-4 = 
+ramp-signal-5 = 
+
+[module/wired-network]
+type = internal/network
+interface = enp0s25
+interval = 120
+
+format-connected = <label-connected>
+format-disconnected = <label-disconnected>
+
+label-connected = %local_ip%
+label-connected-foreground = #eefafafa
+
+label-disconnected = DOWN
+label-disconnected-foreground = #66ffffff
+
+[module/cpu]
+type = internal/cpu
+interval = 0.5
+label =  %percentage:02%%
+
+label-foreground = #8FA1B3
+label-padding-right = 1
+# label = %token:3%
+
+[module/memory]
+type = internal/memory
+interval = 0.5
+format = <label>
+
+label =  %gb_used%
+
+label-foreground = #B48EAD
+
+[module/temperature]
+type = internal/temperature
+interval = 0.5
+thermal-zone = 0
+hwmon-path = /sys/devices/platform/coretemp.0/hwmon/hwmon3/temp1_input
+warn-temperature = 60
+
+format = <label>
+label =  %temperature-c%
+
+label-foreground = #BF616A
+
+[module/title]
+type = internal/xwindow
+; format-background = #65737e
+label-maxlen = 50
+label-empty = This space intentionally empty
+format-background = #EE2B303B
+format-foreground = #ffffff
+format-padding = 5
+
+; File system bar modules
+[module/filesystem]
+type = internal/fs
+mount-0 = /
+; mount-1 = /home
+interval = 25
+
+label-mounted-foreground = #00a0d1
+label-mounted   = %mountpoint%: %used% of %total% (%percentage_used%%)
+label-unmounted = %mountpoint%: N/A
+
+[module/battery]
+type = custom/script
+exec = ~/.config/scripts/battery-combined-udev.sh
+tail = true
+
+format-foreground = #00a0d1
+
+[module/tux]
+type = custom/text
+padding-left = 4
+content = "  "
+content-foreground = #A3BE8C
+
+[module/hostname]
+type = custom/script
+exec = ~/.config/scripts/hostname.sh
+interval = 1200
+label-foreground = #A3BE8C
+
+[module/kernel]
+type = custom/script
+exec = ~/.config/scripts/kernel.sh
+interval = 1200
+label-foreground = #8FA1B3
+
+[module/versions]
+type = custom/script
+exec = ~/.config/scripts/versions.sh
+interval = 1200
+label-foreground = #8FA1B3
+
+[module/updates]
+type = custom/script
+; exec = ~/.config/polybar/updates.sh
+exec = ~/.config/scripts/ubuntu-updates.sh
+interval = 300
+label-foreground = #BF616A
+
+[module/checkreboot]
+type = custom/script
+exec = ~/.config/scripts/arch-reboot.sh
+interval = 1200
+label-foreground = #BF616A
+
+[module/dns]
+type = custom/script
+exec = ~/.config/scripts/dns.sh
+interval = 1200
+; label-foreground = #BF616A
+label-foreground = #A3BE8C
+
+[module/ip]
+type = custom/script
+exec = ~/.config/scripts/ip.sh
+interval = 1200
+; label-foreground = #BF616A
+label-foreground = #A3BE8C
+
+; vim: ft=cfg
