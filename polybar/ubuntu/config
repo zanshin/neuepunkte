@@ -63,7 +63,7 @@ inherit = bar/base
 bottom = false
 offset-x = 70%
 offset-y = 12
-modules-left   =
+modules-left   = vpn
 modules-center =
 ; modules-right  = cpu memory battery temperature wireless-network date
 modules-right  = cpu memory temperature date
@@ -88,8 +88,8 @@ modules-left = i3min
 modules-center =
 ; modules-right = battery wireless-network date
 ; modules-right = wireless-network date
-modules-right = date
-click-left = ~/.config/polybar/wide.sh
+modules-right = vpn date
+click-left = ~/.config/scripts/wide.sh
 
 tray-position = right
 tray-detached = false
@@ -331,5 +331,11 @@ exec = ~/.config/scripts/ip.sh
 interval = 1200
 ; label-foreground = #BF616A
 label-foreground = #A3BE8C
+
+[module/vpn]
+type = custom/script
+exec = ~/.config/scripts/vpn.sh
+interval = 9
+label-basckground = #A3BE8C
 
 ; vim: ft=cfg
