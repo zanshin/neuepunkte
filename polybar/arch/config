@@ -61,7 +61,7 @@ inherit = bar/base
 bottom = false
 offset-x = 70%
 offset-y = 12
-modules-left   =
+modules-left   = vpn
 modules-center =
 modules-right  = cpu memory battery temperature wireless-network date
 
@@ -83,7 +83,7 @@ width = 30%
 fixed-center = true
 modules-left = i3min
 modules-center =
-modules-right = battery wireless-network date
+modules-right = vpn battery wireless-network date
 click-left = ~/.config/polybar/wide.sh
 
 tray-position = right
@@ -324,6 +324,12 @@ type = custom/script
 exec = ~/.config/polybar/ip.sh
 interval = 1200
 ; label-foreground = #BF616A
+label-foreground = #A3BE8C
+
+[module/vpn]
+type = custom/script
+exec = ~/.config/polybar/vpn.sh
+interval = 9
 label-foreground = #A3BE8C
 
 ; vim: ft=cfg
