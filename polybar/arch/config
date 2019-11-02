@@ -271,7 +271,7 @@ label-unmounted = %mountpoint%: N/A
 
 [module/battery]
 type = custom/script
-exec = ~/.config/polybar/battery-combined-udev.sh
+exec = ~/.config/scripts/battery-combined-udev.sh
 tail = true
 
 format-foreground = #00a0d1
@@ -284,51 +284,51 @@ content-foreground = #A3BE8C
 
 [module/hostname]
 type = custom/script
-exec = ~/.config/polybar/hostname.sh
+exec = ~/.config/scripts/hostname.sh
 interval = 1200
 label-foreground = #A3BE8C
 
 [module/kernel]
 type = custom/script
-exec = ~/.config/polybar/kernel.sh
+exec = ~/.config/scripts/kernel.sh
 interval = 1200
 label-foreground = #8FA1B3
 
 [module/versions]
 type = custom/script
-exec = ~/.config/polybar/versions.sh
+exec = ~/.config/scripts/versions.sh
 interval = 1200
 label-foreground = #8FA1B3
 
 [module/updates]
 type = custom/script
-exec = ~/.config/polybar/updates.sh
+exec = ~/.config/scripts/updates.sh
 interval = 300
 label-foreground = #BF616A
 
 [module/checkreboot]
 type = custom/script
-exec = ~/.config/polybar/arch-reboot.sh
+exec = ~/.config/scripts/arch-reboot.sh
 interval = 1200
 label-foreground = #BF616A
 
 [module/dns]
 type = custom/script
-exec = ~/.config/polybar/dns.sh
+exec = ~/.config/scripts/dns.sh
 interval = 1200
 ; label-foreground = #BF616A
 label-foreground = #A3BE8C
 
 [module/ip]
 type = custom/script
-exec = ~/.config/polybar/ip.sh
+exec = ~/.config/scripts/ip.sh
 interval = 1200
 ; label-foreground = #BF616A
 label-foreground = #A3BE8C
 
 [module/vpn]
 type = custom/script
-exec = ~/.config/polybar/vpn.sh
+exec = ~/.config/scripts/vpn.sh
 interval = 9
 label-foreground = #A3BE8C
 

@@ -181,8 +181,8 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # Swap wide / minimal bar setups
-bindsym $mod+Shift+m exec $HOME/.config/polybar/wide.sh
-bindsym $mod+m       exec $HOME/.config/polybar/minimal.sh
+bindsym $mod+Shift+m exec $HOME/.config/scripts/wide.sh
+bindsym $mod+m       exec $HOME/.config/scripts/minimal.sh
 
 # Bottom bar toggle
 bindsym $mod+b       exec polybar bottom
@@ -190,7 +190,7 @@ bindsym $mod+Shift+b exec pkill -n polybar
 
 # Auto run commands
 # Polybar
-exec --no-startup-id $HOME/.config/polybar/wide.sh
+exec --no-startup-id $HOME/.config/scripts/wide.sh
 
 # set background using feh
 exec --no-startup-id feh --bg-fill ${HOME}/Pictures/wallpaper.jpg
