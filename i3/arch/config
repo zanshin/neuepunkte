@@ -158,7 +158,8 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Do you really want to exit?' -B 'Yes' 'i3-msg exi'"
+# bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Do you really want to exit?' -B 'Yes' 'i3-msg exi'"
+bindsym $mod+Shift+e exit
 
 # resize window (you can always use the mouse for this)
 mode "resize" {
@@ -179,6 +180,15 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
+
+# audio controls
+bindcode 113 exec amixer set Master 1+ toggle # mute sound
+bindcode 114 exec amixer set Master 5%-       # lower volume 5%
+bindcode 115 exec amixer set Master 5%+       # raise volume 5%
+
+# screen brightness controls
+bindcode 232 exec xbacklight -dec 5 # decrease screen brightness
+bindcode 233 exec xbacklight -inc 5 # decrease screen brightness
 
 # Swap wide / minimal bar setups
 bindsym $mod+Shift+m exec $HOME/.config/scripts/wide.sh
