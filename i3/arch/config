@@ -182,9 +182,9 @@ mode "resize" {
 bindsym $mod+r mode "resize"
 
 # audio controls
-bindcode 113 exec amixer set Master 1+ toggle # mute sound
-bindcode 114 exec amixer set Master 5%-       # lower volume 5%
-bindcode 115 exec amixer set Master 5%+       # raise volume 5%
+bindcode 121 exec amixer set Master 1+ toggle # mute sound
+bindcode 122 exec amixer set Master 5%-       # lower volume 5%
+bindcode 123 exec amixer set Master 5%+       # raise volume 5%
 
 # screen brightness controls
 bindcode 232 exec xbacklight -dec 5 # decrease screen brightness
@@ -223,6 +223,9 @@ exec --no-startup-id dunst
 
 # Start NetworkManager applet
 exec --no-startup-id nm-applet
+
+# Start Bitwarden
+exec --no-startup-id bitwarden
 
 # Set screen resolution (use arandr to get command flags)
 exec_always xrandr --output HDMI-1 --off --output DP-1 --off --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal
