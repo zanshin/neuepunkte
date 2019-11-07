@@ -158,7 +158,8 @@ bindsym $mod+Shift+c reload
 bindsym $mod+Shift+r restart
 
 # exit i3 (logs you out of your X session)
-bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Do you really want to exit?' -B 'Yes' 'i3-msg exi'"
+# bindsym $mod+Shift+e exec "i3-nagbar -t warning -m 'Do you really want to exit?' -B 'Yes' 'i3-msg exi'"
+bindsym $mod+Shift+e exit
 
 # resize window (you can always use the mouse for this)
 mode "resize" {
@@ -180,9 +181,18 @@ mode "resize" {
 
 bindsym $mod+r mode "resize"
 
+# audio controls
+bindcode 121 exec amixer set Master 1+ toggle # mute sound
+bindcode 122 exec amixer set Master 5%-       # lower volume 5%
+bindcode 123 exec amixer set Master 5%+       # raise volume 5%
+
+# screen brightness controls
+bindcode 232 exec xbacklight -dec 5 # decrease screen brightness
+bindcode 233 exec xbacklight -inc 5 # decrease screen brightness
+
 # Swap wide / minimal bar setups
-bindsym $mod+Shift+m exec $HOME/.config/polybar/wide.sh
-bindsym $mod+m       exec $HOME/.config/polybar/minimal.sh
+bindsym $mod+Shift+m exec $HOME/.config/scripts/wide.sh
+bindsym $mod+m       exec $HOME/.config/scripts/minimal.sh
 
 # Bottom bar toggle
 bindsym $mod+b       exec polybar bottom
@@ -190,7 +200,7 @@ bindsym $mod+Shift+b exec pkill -n polybar
 
 # Auto run commands
 # Polybar
-exec --no-startup-id $HOME/.config/polybar/wide.sh
+exec --no-startup-id $HOME/.config/scripts/wide.sh
 
 # set background using feh
 exec --no-startup-id feh --bg-fill ${HOME}/Pictures/wallpaper.jpg
@@ -213,6 +223,9 @@ exec --no-startup-id dunst
 
 # Start NetworkManager applet
 exec --no-startup-id nm-applet
+
+# Start Bitwarden
+exec --no-startup-id bitwarden
 
 # Set screen resolution (use arandr to get command flags)
 exec_always xrandr --output HDMI-1 --off --output DP-1 --off --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal
