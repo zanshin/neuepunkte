@@ -198,6 +198,12 @@ bindsym $mod+m       exec $HOME/.config/scripts/minimal.sh
 bindsym $mod+b       exec polybar bottom
 bindsym $mod+Shift+b exec pkill -n polybar
 
+# Setting up dropdown Bitwarden
+# for_window [title="Bitwarden"] sticky enable border none
+# exec --no-startup-id bitwarden
+# bindsym $mod+o [class="Bitwarden"] scratchpad show
+# bindsym $mod+Mod4+o [class="Bitwarden"] move position 0px 0px; resize set 960 500
+
 # Auto run commands
 # Polybar
 exec --no-startup-id $HOME/.config/scripts/wide.sh
