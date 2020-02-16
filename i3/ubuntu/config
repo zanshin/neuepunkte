@@ -194,7 +194,8 @@ bindsym $mod+Shift+b exec pkill -n polybar
 exec --no-startup-id $HOME/.config/scripts/wide.sh
 
 # set background using feh
-exec --no-startup-id feh --bg-fill ${HOME}/Pictures/wallpaper.jpg
+# exec --no-startup-id feh --bg-fill ${HOME}/Pictures/wallpaper.jpg
+exec --no-startup-id feh --bg-fill ${HOME}/Pictures/wallleft.jpg --bg-fill ${HOME}/Pictures/wallright.jpg
 
 # Create a scratchpad with neofetch in it
 # exec --no-startup-id terminator -c "about" -e 'neofetch'
@@ -217,7 +218,7 @@ exec --no-startup-id nm-applet
 
 # Set screen resolution (use arandr to get command flags)
 # exec_always xrandr --output HDMI-1 --off --output DP-1 --off --output eDP-1 --primary --mode 1920x1080 --pos 0x0 --rotate normal
-exec_always xrandr --output DVI-0 --right-of DVI-1 --auto
+exec_always xrandr --output DVI-1 --right-of DVI-0 --auto
 
 # Load personal keymap - map Caps Lock to Control
 exec --no-startup-id loadkeys /usr/local/share/kbd/keymaps/personal.map
