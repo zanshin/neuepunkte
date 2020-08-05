@@ -1,0 +1,107 @@
+@import "./base16-chalk.css";
+
+* {
+  transition: none;
+  box-shadow: none;
+  font-family: 'JetBrainsMono-Regular';
+  font-size: 12px;
+}
+
+#waybar {
+  color: @base04;
+  background: @base01;
+}
+
+#workspaces {
+  margin: 0 4px;
+}
+
+#workspaces button {
+  margin: 4px 0;
+  padding: 0 6px;
+  color: @base05;
+}
+
+#workspaces button.visible {
+}
+
+#workspaces button.focused {
+  border-radius: 4px;
+  background-color: @base02;
+}
+
+#workspaces button.urgent {
+  color: rgba(238, 46, 36, 1);
+}
+
+#tray {
+  margin: 4px 16px 4px 4px;
+  border-radius: 4px;
+  background-color: @base02;
+}
+
+#tray * {
+  padding: 0 6px;
+  border-left: 1px solid @base00;
+}
+
+#tray *:first-child {
+  border-left: none;
+}
+
+#mode, #battery, #cpu, #memory, #network, #pulseaudio, #idle_inhibitor, #backlight, #custom-storage, #custom-storage-alt, #custom-spotify, #custom-weather, #custom-mail, #clock, #temperature {
+  margin: 4px 2px;
+  padding: 0 6px;
+  background-color: @base02;
+  border-radius: 4px;
+  min-width: 20px;
+}
+
+#custom-storage, #custom-storage-alt {
+  color: @base08;
+}
+
+#cpu {
+  color: @base0C;
+}
+
+#memory {
+  color: @base0A;
+}
+
+#temperature {
+  color: @base0E;
+}
+
+#network {
+  color: @base07;
+}
+
+#battery {
+  color: @base0B;
+}
+
+#pulseaudio.muted {
+  color: @base0D;
+}
+
+#pulseaudio.bluetooth {
+  color: @base0D;
+}
+
+#clock {
+  color: @base0D;
+  margin-left: 12px;
+  margin-right: 4px;
+  background-color: transparent;
+}
+
+#temperature.critical {
+  color: @base0F;
+}
+
+#custom-weather {
+  color: @base08;
+}
+
+

@@ -1,0 +1,171 @@
+{
+    "layer": "bottom",
+    "position": "top",
+    "height": 34,
+
+    "modules-left": [
+        "sway/workspaces",
+        "sway/mode"
+        ],
+    "modules-center": [
+        "sway/window"
+        ],
+    "modules-right": [
+        "tray",
+        "custom/storage",
+        "custom/storage-alt",
+        "cpu",
+        "memory",
+        "temperature",
+        "pulseaudio",
+        "network",
+        "battery",
+        "clock"],
+    "sway/mode": {
+        "format": " {}"
+    },
+    "sway/workspaces": {
+        "format": "{icon}",
+        "format-icons": {
+            "1": "",
+            "2": "",
+            "3": "",
+            "4": "",
+            "5": "",
+            "urgent": "",
+            "focused": "",
+            "default": ""
+        }
+    },
+    "sway/window": {
+        "max-length": 80,
+        "tooltip": false
+    },
+    "clock": {
+        "format": "{:%a  ·  %m.%d  ·  %I:%M %p}",
+        "tooltip": false
+    },
+    "cpu": {
+        "interval": 10,
+        "format": "{}% ",
+        "max-length": 10
+    },
+    "memory": {
+        "interval": 30,
+        "format": "{used:0.2f} / {total:0.0f} GB ",
+        "max-length": 15,
+        "tooltip": false
+    },
+    "battery": {
+        "bat": "BAT0",
+        "format": "{capacity}% {icon}",
+        "format-alt": "{time} {icon}",
+        "format-icons": ["", "", "", "", ""],
+        "format-charging": "{capacity}% ",
+        "interval": 30,
+        "states": {
+            "warning": 25,
+            "critical": 10
+        },
+        "tooltip": false
+    },
+    "temperature": {
+        "critical-threshold": 80,
+      	"format-critical": "{temperatureC}° ",
+      	"format": "{temperatureC}° "
+    },
+    "network": {
+        "format-wifi": "{essid} ({signalStrength}%) ",
+        "format-ethernet": "{ifname}: {ipaddr}/{cidr} ",
+        "format-linked": "{ifname} (No IP)",
+        "format-disconnected": "Disconnected",
+        "format-alt": "{ipaddr}/{cidr}",
+        "on-click": "alacritty -e nmtui",
+        "tooltip-format": "{ifname}",
+        /* "tooltip-format-wifi": "{essid} ({signalStrength}%) ", */
+        "exec": "~/.config/waybar/modules/ip.sh",
+        "tooltip": true
+    },
+    "pulseaudio": {
+        "format": "{volume}% {icon}",
+        "format-bluetooth": "{volume}% {icon}",
+        "format-muted": "",
+        "format-icons": {
+            "headphone": "",
+            "hands-free": "",
+            "headset": "",
+            "phone": "",
+            "portable": "",
+            "default": ""
+        },
+        "scroll-step": 1,
+        "on-click": "pavucontrol",
+        "tooltip": false
+    },
+    "custom/spotify": {
+        "interval": 1,
+        "return-type": "json",
+        "exec": "~/.config/waybar/modules/spotify.sh",
+        "exec-if": "pgrep spotify",
+        "escape": true
+    },
+    "custom/storage": {
+        "format": "{} ",
+        "format-alt": "{percentage}% ",
+        "format-alt-click": "click-right",
+        "return-type": "json",
+        "interval": 60,
+        "exec": "~/.config/waybar/modules/storage.sh"
+    },
+     "custom/storage-alt": {
+        "format": "{} ",
+        "format-alt": "{percentage}% ",
+        "format-alt-click": "click-right",
+        "return-type": "json",
+        "interval": 60,
+        "exec": "~/.config/waybar/modules/storage-alt.sh"
+    },
+    "backlight": {
+        "device": "intel_backlight",
+        "format": "{percent}% {icon}",
+        "format-alt": "{percent}% {icon}",
+        "format-alt-click": "click-right",
+        "format-icons": ["", ""],
+        "on-scroll-down": "light -A 1",
+        "on-scroll-up": "light -U 1"
+    },
+    "custom/weather": {
+        "format": "{}",
+        "format-alt": "{alt}: {}",
+        "format-alt-click": "click-right",
+        "interval": 1800,
+        "return-type": "json",
+        "exec": "~/.config/waybar/modules/weather.sh",
+        "exec-if": "ping wttr.in -c1"
+    },
+    "idle_inhibitor": {
+        "format": "{icon}",
+        "format-icons": {
+            "activated": "",
+            "deactivated": ""
+        },
+        "tooltip": false
+    },
+    "custom/mail": {
+        "format": "",
+        "format-alt": "{alt} ",
+        "format-alt-click": "click-right",
+        "interval": 60,
+        "return-type": "json",
+        "exec": "~/.config/waybar/modules/mail.py",
+        "tooltip": false
+    },
+    "sway/mode": {
+        "format": "<span style=\"italic\">{}</span>"
+    },
+    "tray": {
+        "icon-size": 18
+    }
+}
+
+
