@@ -1,0 +1,24 @@
+{
+   "checksum": "8dfca5ec1b518eff2454c1262ce91a10",
+   "children": [ {
+      "children": [  ],
+      "date_added": "13232690236719441",
+      "guid": "00000000-0000-4000-a000-000000000003",
+      "id": "2",
+      "subject": "Other Notes",
+      "type": "other"
+   }, {
+      "children": [  ],
+      "date_added": "13232690236719442",
+      "guid": "00000000-0000-4000-a000-000000000004",
+      "id": "3",
+      "subject": "Trash",
+      "type": "trash"
+   } ],
+   "date_added": "13232690236719441",
+   "guid": "00000000-0000-4000-a000-000000000002",
+   "id": "1",
+   "subject": "Notes",
+   "type": "folder",
+   "version": 1
+}

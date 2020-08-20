@@ -1,0 +1,5 @@
+2020/08/14-12:16:12.544 aa21 Reusing MANIFEST /home/mark/.config/vivaldi/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2020/08/14-12:16:57.632 aadb Level-0 table #5: started
+2020/08/14-12:16:57.642 aadb Level-0 table #5: 1738 bytes OK
+2020/08/14-12:16:57.646 aadb Delete type=0 #3
+2020/08/14-12:16:57.646 aadb Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,286 @@
+{
+   "checksum": "ab2f4e3333b83d47b0af54afdd83be13",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "children": [ {
+               "date_added": "13232690237385832",
+               "guid": "4d90114e-4b10-4161-baea-3bab201c6264",
+               "id": "7",
+               "meta_info": {
+                  "Description": "hotels, booking, apartments",
+                  "Partner": "b63e8c61-ada6-4211-8370-df06125d410e",
+                  "Thumbnail": "/resources/sd_booking.com.png"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/bookingcom-en-us"
+            }, {
+               "date_added": "13232690237385912",
+               "guid": "72bc513d-86e3-47ba-bee7-f93f8bb435d3",
+               "id": "8",
+               "meta_info": {
+                  "Description": "video",
+                  "Partner": "c956b86d-1363-4d76-9ba8-cabadf0fb63c",
+                  "Thumbnail": "/resources/sd_youtube.png"
+               },
+               "name": "YouTube",
+               "type": "url",
+               "url": "https://www.youtube.com/"
+            }, {
+               "date_added": "13232690237385932",
+               "guid": "a6cfa3b2-d625-4a7e-8467-c4c523f045f6",
+               "id": "9",
+               "meta_info": {
+                  "Description": "shopping, electronics",
+                  "Partner": "62dd5b18-538e-499b-a4f2-262f53b253bb",
+                  "Thumbnail": "/resources/sd_amazon.png"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon"
+            }, {
+               "date_added": "13232690237385959",
+               "guid": "04175040-3117-41dc-aef0-3deeaf6f880e",
+               "id": "10",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Partner": "42c55163-1b3a-4280-93e3-03713d3b6e0f",
+                  "Thumbnail": "/resources/sd_ebay.png"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-en-us"
+            }, {
+               "date_added": "13232690237385988",
+               "guid": "9778a75e-1bb3-43bc-9a84-e9118232e3b0",
+               "id": "11",
+               "meta_info": {
+                  "Description": "communication",
+                  "Partner": "2a9d785c-c3c2-4220-990a-92faaca07bb5",
+                  "Thumbnail": "/resources/sd_whereby.png"
+               },
+               "name": "Whereby",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/whereby-us"
+            }, {
+               "date_added": "13232690237386007",
+               "guid": "101bda28-b4bf-4f91-8e3f-19e235d59e6f",
+               "id": "12",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Partner": "ef4b6027-b859-48c1-8abe-7589440eb030",
+                  "Thumbnail": "/resources/sd_aliexpress.png"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/aliexpresscom-us"
+            }, {
+               "children": [ {
+                  "date_added": "13232690237386028",
+                  "guid": "250c9c5b-5f24-483d-a145-8dc9e622739e",
+                  "id": "14",
+                  "meta_info": {
+                     "Description": "vivaldi",
+                     "Partner": "181671de-a3ea-47df-b851-a0e4fc984122",
+                     "Thumbnail": "/resources/sd_vivaldi.png"
+                  },
+                  "name": "Vivaldi Features",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-browser-features"
+               }, {
+                  "date_added": "13232690237386049",
+                  "guid": "5a6f967e-c8d4-4b02-bafa-061a5f00fba3",
+                  "id": "15",
+                  "meta_info": {
+                     "Description": "vivaldi",
+                     "Partner": "7e9b4d6a-6f34-4b33-bdd7-7284d704af11",
+                     "Thumbnail": "/resources/sd_vivaldi_community.gif"
+                  },
+                  "name": "Vivaldi Community",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-community"
+               }, {
+                  "date_added": "13232690237386070",
+                  "guid": "e9f4d7b7-04ff-4dfc-bc49-05de0e62f5e5",
+                  "id": "16",
+                  "meta_info": {
+                     "Partner": "81faaf2a-8c43-41e6-868e-a9010bf1b0a9",
+                     "Thumbnail": "/resources/sd_webmail.png"
+                  },
+                  "name": "Vivaldi Webmail",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-webmail"
+               }, {
+                  "date_added": "13232690237386098",
+                  "guid": "2fd7944c-e7b3-4d88-bae4-d6a3925cd61f",
+                  "id": "17",
+                  "meta_info": {
+                     "Partner": "3ed2b980-83fd-4b07-a6da-7722c16ec601",
+                     "Thumbnail": "/resources/sd_help.png"
+                  },
+                  "name": "Get Started",
+                  "type": "url",
+                  "url": "https://vivaldi.com/bk/sd-get-started"
+               } ],
+               "date_added": "13232690237386024",
+               "date_modified": "13232690237386098",
+               "guid": "3c677eb8-ceef-4caa-be65-f654ec555018",
+               "id": "13",
+               "meta_info": {
+                  "Partner": "487e293f-682b-4f53-90b1-f957c7b2ac8e"
+               },
+               "name": "Vivaldi",
+               "type": "folder"
+            }, {
+               "date_added": "13241661606288251",
+               "guid": "6f7e802b-87ed-454d-ae23-95407a64de52",
+               "id": "28",
+               "meta_info": {
+                  "Description": "shopping",
+                  "Partner": "6f7e802b-87ed-454d-ae23-95407a64de52",
+                  "Thumbnail": "/resources/sd_walmart.png"
+               },
+               "name": "Walmart",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/walmart-pc"
+            } ],
+            "date_added": "13232690237385812",
+            "date_modified": "13241661606288251",
+            "guid": "35992391-1d4e-450f-a838-4c042d68d34a",
+            "id": "6",
+            "meta_info": {
+               "Partner": "76bd70a3-2806-48c6-a9b2-37b68c8857b3",
+               "Speeddial": "true"
+            },
+            "name": "Speed Dial",
+            "type": "folder"
+         }, {
+            "children": [ {
+               "date_added": "13232690237386124",
+               "guid": "a1424837-8000-4675-b91e-e6b2b2d58c49",
+               "id": "19",
+               "meta_info": {
+                  "Partner": "affbb351-e713-49b8-9baa-5bc30876a2bc"
+               },
+               "name": "Booking.com",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/booking-us-bk"
+            }, {
+               "date_added": "13232690237386141",
+               "guid": "29395290-e639-4433-a4c4-3277e010ea12",
+               "id": "20",
+               "meta_info": {
+                  "Partner": "b3fed2c7-af14-49f2-a4d0-2afcaf6b627f"
+               },
+               "name": "AliExpress",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ali-us-bk"
+            }, {
+               "date_added": "13232690237386160",
+               "guid": "38d5e3f9-ec25-4e58-bc8d-010eb49175b2",
+               "id": "21",
+               "meta_info": {
+                  "Partner": "ff127c0d-c37a-4133-8853-386b8f718cd0"
+               },
+               "name": "Airbnb",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/airbnb-us-bk"
+            }, {
+               "date_added": "13232690237386195",
+               "guid": "19b7d1bc-0c33-4b26-baff-7333ba82914c",
+               "id": "22",
+               "meta_info": {
+                  "Partner": "e1cc9841-87b6-4039-9d8b-70cd5423df9c"
+               },
+               "name": "Amazon",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/amazon-us-bk"
+            }, {
+               "date_added": "13232690237386224",
+               "guid": "5912b3da-24ea-438c-93b2-95a08e09e7fc",
+               "id": "23",
+               "meta_info": {
+                  "Partner": "4e3b2180-6466-4557-add8-daf4bcdfff91"
+               },
+               "name": "eBay",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/ebay-us-bk"
+            }, {
+               "date_added": "13232690237386242",
+               "guid": "e15c6f1b-ec6b-4a9a-b194-421e1d34cab5",
+               "id": "24",
+               "meta_info": {
+                  "Partner": "619f7660-4b91-4cc4-8278-348973a6d668"
+               },
+               "name": "Walmart",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/walmart-pc"
+            }, {
+               "date_added": "13232690237386259",
+               "guid": "6aac6d5d-8010-494e-8e4b-7e2e2f15fc72",
+               "id": "25",
+               "meta_info": {
+                  "Partner": "1d0fab49-8c02-4c14-ad21-4b9d0e2b9f0e"
+               },
+               "name": "Overstock",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/overstock-us-bk"
+            }, {
+               "date_added": "13232690237386284",
+               "guid": "24d244a5-6fba-4226-bb5d-d4c7e5488d8c",
+               "id": "26",
+               "meta_info": {
+                  "Partner": "80702bc0-4892-43a6-81b5-627a7cbbfadb"
+               },
+               "name": "Rakuten",
+               "type": "url",
+               "url": "https://vivaldi.com/bk/rakuten-us-bk"
+            } ],
+            "date_added": "13232690237386120",
+            "date_modified": "13232690237386284",
+            "guid": "34329237-caad-49ae-8563-458bb0abe4df",
+            "id": "18",
+            "meta_info": {
+               "Partner": "e441bdb0-4ae5-4a19-bb23-d4bd02238b9b"
+            },
+            "name": "Bookmarks",
+            "type": "folder"
+         } ],
+         "date_added": "13232690236714604",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13232690236714608",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13232690236714610",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      },
+      "trash": {
+         "children": [  ],
+         "date_added": "13232690236714611",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000040000",
+         "id": "4",
+         "name": "Trash",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

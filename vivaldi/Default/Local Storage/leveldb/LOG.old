@@ -1,0 +1,9 @@
+2020/08/12-12:43:05.200 5117 Reusing MANIFEST /home/mark/.config/vivaldi/Default/Local Storage/leveldb/MANIFEST-000001
+2020/08/12-12:43:05.200 5117 Recovering log #3
+2020/08/12-12:43:05.200 5117 Reusing old log /home/mark/.config/vivaldi/Default/Local Storage/leveldb/000003.log 
+2020/08/14-12:16:17.060 aab2 Level-0 table #5: started
+2020/08/14-12:16:17.175 aab2 Level-0 table #5: 12599 bytes OK
+2020/08/14-12:16:17.178 aab2 Delete type=0 #3
+2020/08/16-20:49:58.929 aab2 Level-0 table #7: started
+2020/08/16-20:49:59.044 aab2 Level-0 table #7: 12632 bytes OK
+2020/08/16-20:49:59.048 aab2 Delete type=0 #4

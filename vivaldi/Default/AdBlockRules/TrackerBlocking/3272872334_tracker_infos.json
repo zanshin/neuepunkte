@@ -1,0 +1,3073 @@
+{
+   "1dmp.io": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "CleverDATA",
+         "name": "CleverDATA LLC",
+         "privacyPolicy": "https://hermann.ai/privacy-en",
+         "url": "http://hermann.ai"
+      }
+   },
+   "1rx.io": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "RhythmOne",
+         "name": "RhythmOne",
+         "privacyPolicy": "https://www.rhythmone.com/privacy-policy",
+         "url": "http://rhythmone.com"
+      }
+   },
+   "2mdn.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "Google",
+         "name": "Google LLC",
+         "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+         "url": "http://google.com"
+      }
+   },
+   "2o7.net": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "33across.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Action Pixels" ],
+      "owner": {
+         "displayName": "33Across",
+         "name": "33Across, Inc.",
+         "privacyPolicy": "https://33across.com/privacy-policy/",
+         "url": "http://33across.com"
+      }
+   },
+   "360yield.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Improve Digital",
+         "name": "Improve Digital BV",
+         "privacyPolicy": "https://www.improvedigital.com/platform-privacy-policy/",
+         "url": "http://improvedigital.com"
+      }
+   },
+   "3lift.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "TripleLift",
+         "name": "TripleLift",
+         "privacyPolicy": "https://triplelift.com/privacy/",
+         "url": "http://triplelift.com"
+      }
+   },
+   "abtasty.com": {
+      "categories": [ "Analytics", "Third-Party Analytics Marketing", "Session Replay" ],
+      "owner": {
+         "displayName": "Liwio",
+         "name": "Liwio",
+         "privacyPolicy": "https://www.abtasty.com/terms-of-use/",
+         "url": "http://abtasty.com"
+      }
+   },
+   "acuityplatform.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "AcuityAds",
+         "name": "AcuityAds",
+         "privacyPolicy": "https://acuityscheduling.com/privacy.php",
+         "url": "http://acuityscheduling.com"
+      }
+   },
+   "addthis.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Social - Share", "Embedded Content" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "addtoany.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Social - Share", "Embedded Content" ],
+      "owner": {
+         "displayName": "AddToAny",
+         "name": "AddToAny",
+         "privacyPolicy": "https://www.addtoany.com/privacy",
+         "url": "http://addtoany.com"
+      }
+   },
+   "adentifi.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "AdTheorent",
+         "name": "AdTheorent Inc",
+         "privacyPolicy": "https://www.adtheorent.com/privacy-policy",
+         "url": "http://adtheorent.com"
+      }
+   },
+   "adform.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Adform",
+         "name": "Adform A/S",
+         "privacyPolicy": "https://site.adform.com/privacy-center/overview/",
+         "url": "http://adform.com"
+      }
+   },
+   "adfox.ru": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Yandex",
+         "name": "Yandex LLC",
+         "privacyPolicy": "https://yandex.com/legal/privacy/",
+         "url": "http://yandex.com"
+      }
+   },
+   "adgrx.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "AdGear",
+         "name": "AdGear Technologies Inc.",
+         "privacyPolicy": "https://adgear.com/en/privacy/",
+         "url": "http://adgear.com"
+      }
+   },
+   "adhaven.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "4INFO",
+         "name": "4INFO, Inc."
+      }
+   },
+   "adhigh.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "GetIntent",
+         "name": "GetIntent",
+         "privacyPolicy": "https://getintent.com/privacy/",
+         "url": "http://getintent.com"
+      }
+   },
+   "adition.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Virtual Minds",
+         "name": "Virtual Minds AG",
+         "privacyPolicy": "https://www.virtualminds.de/en/",
+         "url": "http://virtualminds.de"
+      }
+   },
+   "adkernel.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Adkernel",
+         "name": "Adkernel, LLC",
+         "privacyPolicy": "https://adkernel.com/privacy-policy/",
+         "url": "http://adkernel.com"
+      }
+   },
+   "adlightning.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Ad Lightning",
+         "name": "Ad Lightning, Inc.",
+         "privacyPolicy": "https://www.adlightning.com/privacy",
+         "url": "http://adlightning.com"
+      }
+   },
+   "admedo.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Admedo",
+         "name": "Admedo",
+         "privacyPolicy": "https://www.admedo.com/privacy-policy",
+         "url": "http://admedo.com"
+      }
+   },
+   "admixer.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Admixer",
+         "name": "Admixer Technologies",
+         "privacyPolicy": "https://admixer.net/privacy",
+         "url": "http://admixer.net"
+      }
+   },
+   "adnxs.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "WarnerMedia",
+         "name": "WarnerMedia, LLC"
+      }
+   },
+   "adobedtm.com": {
+      "categories": [ "Ad Motivated Tracking", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "adotmob.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "A.Mob",
+         "name": "A.Mob SAS",
+         "privacyPolicy": "https://adotmob.com/privacy.html",
+         "url": "http://adotmob.com"
+      }
+   },
+   "adriver.ru": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Internest-holding",
+         "name": "LLC \"Internest-holding\"",
+         "privacyPolicy": "https://www.adriver.ru/about/privacy-en/",
+         "url": "http://adriver.ru"
+      }
+   },
+   "adroll.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "AdRoll",
+         "name": "AdRoll, Inc.",
+         "privacyPolicy": "https://www.adroll.com/about/privacy",
+         "url": "http://adroll.com"
+      }
+   },
+   "adsafeprotected.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "Integral Ad Science",
+         "name": "Integral Ad Science, Inc.",
+         "privacyPolicy": "https://integralads.com/privacy-policy/",
+         "url": "http://integralads.com"
+      }
+   },
+   "adscale.de": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Ströer Group",
+         "name": "Ströer Group"
+      }
+   },
+   "adsco.re": {
+      "categories": [ "Ad Motivated Tracking", "Ad Fraud", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Adscore",
+         "name": "Adscore Technologies DMCC",
+         "privacyPolicy": "https://www.adscore.com/privacy-policy",
+         "url": "http://adscore.com"
+      }
+   },
+   "adsrvr.org": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "The Trade Desk",
+         "name": "The Trade Desk Inc",
+         "privacyPolicy": "https://www.thetradedesk.com/general/privacy-policy",
+         "url": "http://thetradedesk.com"
+      }
+   },
+   "adstanding.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "AdStanding",
+         "name": "AdStanding",
+         "privacyPolicy": "https://standingroomonly.tv/privacy-policy/",
+         "url": "http://standingroomonly.tv"
+      }
+   },
+   "adsymptotic.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "LinkedIn",
+         "name": "LinkedIn Corporation",
+         "privacyPolicy": "https://www.linkedin.com/legal/privacy-policy",
+         "url": "http://linkedin.com"
+      }
+   },
+   "adtdp.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "CyberAgent",
+         "name": "CyberAgent, Inc.",
+         "privacyPolicy": "https://adtech.cyberagent.io/privacy",
+         "url": "http://cyberagent.io"
+      }
+   },
+   "adthrive.com": {
+      "categories": [ "Advertising" ],
+      "owner": {
+         "displayName": "AdThrive",
+         "name": "AdThrive, LLC",
+         "privacyPolicy": "https://www.adthrive.com/privacy/",
+         "url": "http://adthrive.com"
+      }
+   },
+   "advertising.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Verizon Media",
+         "name": "Verizon Media",
+         "privacyPolicy": "https://www.verizon.com/about/privacy/privacy-policy-summary",
+         "url": "http://verizon.com"
+      }
+   },
+   "affec.tv": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Affectv",
+         "name": "Affectv"
+      }
+   },
+   "agkn.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Neustar",
+         "name": "Neustar, Inc.",
+         "privacyPolicy": "https://www.home.neustar/privacy",
+         "url": "http://home.neustar"
+      }
+   },
+   "aidata.io": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Aidata",
+         "name": "Aidata",
+         "privacyPolicy": "https://my.aidata.me/data/uploads/aidata.me-privacy-policy.pdf",
+         "url": "http://aidata.me"
+      }
+   },
+   "alexametrics.com": {
+      "categories": [ "Audience Measurement" ],
+      "owner": {
+         "displayName": "Amazon.com",
+         "name": "Amazon Technologies, Inc.",
+         "privacyPolicy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+         "url": "http://amazon.com"
+      }
+   },
+   "amazon-adsystem.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Amazon.com",
+         "name": "Amazon Technologies, Inc.",
+         "privacyPolicy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+         "url": "http://amazon.com"
+      }
+   },
+   "amazon.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "SSO", "Third-Party Analytics Marketing", "Online Payment", "Embedded Content" ],
+      "owner": {
+         "displayName": "Amazon.com",
+         "name": "Amazon Technologies, Inc.",
+         "privacyPolicy": "https://www.amazon.com/gp/help/customer/display.html?nodeId=468496",
+         "url": "http://amazon.com"
+      }
+   },
+   "amplitude.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Amplitude",
+         "name": "Amplitude",
+         "privacyPolicy": "https://amplitude.com/privacy",
+         "url": "http://amplitude.com"
+      }
+   },
+   "amung.us": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "whos.amung.us",
+         "name": "whos.amung.us Inc",
+         "privacyPolicy": "https://whos.amung.us/legal/privacy/",
+         "url": "http://amung.us"
+      }
+   },
+   "app.link": {
+      "categories": [ "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Branch Metrics",
+         "name": "Branch Metrics, Inc.",
+         "privacyPolicy": "https://branch.io/policies/",
+         "url": "http://branch.io"
+      }
+   },
+   "appdynamics.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Cisco Systems",
+         "name": "Cisco Systems, Inc."
+      }
+   },
+   "appier.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Appier",
+         "name": "Appier",
+         "privacyPolicy": "https://www.appier.com/retargeting-privacy-policy-2/",
+         "url": "http://appier.com"
+      }
+   },
+   "apxlv.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Cogo Labs",
+         "name": "Cogo Labs"
+      }
+   },
+   "atdmt.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Facebook",
+         "name": "Facebook, Inc.",
+         "privacyPolicy": "https://www.facebook.com/privacy/explanation",
+         "url": "http://facebook.com"
+      }
+   },
+   "attn.tv": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Attentive Mobile",
+         "name": "Attentive Mobile"
+      }
+   },
+   "betrad.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Crownpeak",
+         "name": "Crownpeak Technology",
+         "privacyPolicy": "https://www.crownpeak.com/privacy.aspx",
+         "url": "http://crownpeak.com"
+      }
+   },
+   "betweendigital.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "SSP Network",
+         "name": "SSP Network Ltd"
+      }
+   },
+   "bfmio.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Beachfront Media",
+         "name": "Beachfront Media LLC",
+         "privacyPolicy": "http://beachfront.com/privacy-policy/",
+         "url": "http://beachfront.com"
+      }
+   },
+   "bidr.io": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Beeswax",
+         "name": "Beeswax",
+         "privacyPolicy": "https://www.beeswax.com/privacy.html",
+         "url": "http://beeswax.com"
+      }
+   },
+   "bidswitch.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "IPONWEB",
+         "name": "IPONWEB GmbH",
+         "privacyPolicy": "https://www.iponweb.com/privacy-policy/",
+         "url": "http://iponweb.com"
+      }
+   },
+   "bizrate.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Embedded Content" ],
+      "owner": {
+         "displayName": "Synapse Group",
+         "name": "Synapse Group, Inc.",
+         "privacyPolicy": "http://about.bizrate.com/privacy-policy",
+         "url": "http://bizrate.com"
+      }
+   },
+   "bkrtx.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "blismedia.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Blis Media",
+         "name": "Blis Media Limited",
+         "privacyPolicy": "http://www.blis.com/privacy/",
+         "url": "http://blis.com"
+      }
+   },
+   "bluecava.com": {
+      "categories": [ "Ad Motivated Tracking", "Ad Fraud", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "ALC",
+         "name": "ALC"
+      }
+   },
+   "blueconic.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "BlueConic",
+         "name": "BlueConic, Inc.",
+         "privacyPolicy": "https://www.blueconic.com/privacy-policy/",
+         "url": "http://blueconic.com"
+      }
+   },
+   "bluekai.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "bongacash.com": {
+      "categories": [ "Advertising", "Embedded Content" ],
+      "owner": {
+         "displayName": "BongaCams",
+         "name": "BongaCams"
+      }
+   },
+   "bounceexchange.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Action Pixels" ],
+      "owner": {
+         "displayName": "Bounce Exchange",
+         "name": "Bounce Exchange",
+         "privacyPolicy": "https://www.bouncex.com/privacy/",
+         "url": "http://bouncex.com"
+      }
+   },
+   "branch.io": {
+      "categories": [ "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Branch Metrics",
+         "name": "Branch Metrics, Inc.",
+         "privacyPolicy": "https://branch.io/policies/",
+         "url": "http://branch.io"
+      }
+   },
+   "brealtime.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "ORC International",
+         "name": "ORC International",
+         "privacyPolicy": "https://orcinternational.com/privacy/",
+         "url": "http://orcinternational.com"
+      }
+   },
+   "bronto.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Embedded Content" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "browser-update.org": {
+      "categories": [ "Badge", "Embedded Content" ],
+      "owner": {
+         "displayName": "Browser Update",
+         "name": "Browser Update"
+      }
+   },
+   "bttrack.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Embedded Content" ],
+      "owner": {
+         "displayName": "Bidtellect",
+         "name": "Bidtellect, Inc",
+         "privacyPolicy": "https://bidtellect.com/privacy-policy/",
+         "url": "http://bidtellect.com"
+      }
+   },
+   "casalemedia.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Index Exchange",
+         "name": "Index Exchange, Inc.",
+         "privacyPolicy": "http://casalemedia.com/",
+         "url": "http://casalemedia.com"
+      }
+   },
+   "chartbeat.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Chartbeat",
+         "name": "Chartbeat",
+         "privacyPolicy": "https://chartbeat.com/privacy/",
+         "url": "http://chartbeat.com"
+      }
+   },
+   "chaturbate.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Embedded Content" ],
+      "owner": {
+         "displayName": "Chaturbate",
+         "name": "Chaturbate, LLC",
+         "privacyPolicy": "https://chaturbate.com/privacy/",
+         "url": "http://chaturbate.com"
+      }
+   },
+   "clickagy.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Clickagy",
+         "name": "Clickagy",
+         "privacyPolicy": "https://www.clickagy.com/privacy/",
+         "url": "http://clickagy.com"
+      }
+   },
+   "clickcertain.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "ClickCertain",
+         "name": "ClickCertain"
+      }
+   },
+   "clicktale.net": {
+      "categories": [ "Analytics", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "ClickTale",
+         "name": "ClickTale Ltd",
+         "privacyPolicy": "https://www.clicktale.com/company/privacy-policy/",
+         "url": "http://clicktale.com"
+      }
+   },
+   "cogocast.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Cogo Labs",
+         "name": "Cogo Labs"
+      }
+   },
+   "company-target.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Obscure Ownership" ],
+      "owner": {
+         "displayName": "Demandbase",
+         "name": "Demandbase, Inc.",
+         "privacyPolicy": "http://www.demandbase.com/privacy-policy/",
+         "url": "http://demandbase.com"
+      }
+   },
+   "contentsquare.net": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "ContentSquare",
+         "name": "ContentSquare",
+         "privacyPolicy": "https://contentsquare.com/privacy-and-security/",
+         "url": "http://contentsquare.com"
+      }
+   },
+   "contextweb.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Pulsepoint",
+         "name": "Pulsepoint, Inc.",
+         "privacyPolicy": "https://www.pulsepoint.com/privacy-policy-platform",
+         "url": "http://pulsepoint.com"
+      }
+   },
+   "cpx.to": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Action Pixels", "Obscure Ownership" ],
+      "owner": {
+         "displayName": "Captify",
+         "name": "Captify Technologies Ltd.",
+         "privacyPolicy": "https://www.captify.co.uk/privacy-policy-opt/",
+         "url": "http://captify.co.uk"
+      }
+   },
+   "cquotient.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Salesforce.com",
+         "name": "Salesforce.com, Inc.",
+         "privacyPolicy": "https://www.salesforce.com/company/privacy/",
+         "url": "http://salesforce.com"
+      }
+   },
+   "creative-serving.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Action Pixels" ],
+      "owner": {
+         "displayName": "Platform161",
+         "name": "Platform161",
+         "privacyPolicy": "https://platform161.com/cookie-and-privacy-policy/",
+         "url": "http://platform161.com"
+      }
+   },
+   "criteo.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Criteo",
+         "name": "Criteo SA",
+         "privacyPolicy": "https://www.criteo.com/privacy/",
+         "url": "http://criteo.com"
+      }
+   },
+   "criteo.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Criteo",
+         "name": "Criteo SA",
+         "privacyPolicy": "https://www.criteo.com/privacy/",
+         "url": "http://criteo.com"
+      }
+   },
+   "crsspxl.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Cross Pixel Media",
+         "name": "Cross Pixel Media, Inc.",
+         "privacyPolicy": "http://www.crosspixel.net/privacy-policy/",
+         "url": "http://crosspixel.net"
+      }
+   },
+   "crwdcntrl.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Lotame Solutions",
+         "name": "Lotame Solutions, Inc.",
+         "privacyPolicy": "https://www.lotame.com/about-lotame/privacy/lotame-corporate-websites-privacy-policy/",
+         "url": "http://lotame.com"
+      }
+   },
+   "ctnsnet.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Crimtan Holdings",
+         "name": "Crimtan Holdings Ltd",
+         "privacyPolicy": "https://crimtan.com/privacy/",
+         "url": "http://crimtan.com"
+      }
+   },
+   "cxense.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Piano Software",
+         "name": "Piano Software",
+         "privacyPolicy": "https://piano.io/privacy-policy/",
+         "url": "http://piano.io"
+      }
+   },
+   "dc-storm.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Rakuten",
+         "name": "Rakuten, Inc.",
+         "privacyPolicy": "https://rakutenmarketing.com/legal-notices/services-privacy-policy",
+         "url": "http://rakutenmarketing.com"
+      }
+   },
+   "deepintent.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "DeepIntent",
+         "name": "DeepIntent Inc",
+         "privacyPolicy": "https://www.deepintent.com/privacypolicy",
+         "url": "http://deepintent.com"
+      }
+   },
+   "demandbase.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Demandbase",
+         "name": "Demandbase, Inc.",
+         "privacyPolicy": "http://www.demandbase.com/privacy-policy/",
+         "url": "http://demandbase.com"
+      }
+   },
+   "demdex.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "deployads.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Snapsort",
+         "name": "Snapsort Inc.",
+         "privacyPolicy": "https://www.sortable.com/privacy-policy",
+         "url": "http://sortable.com"
+      }
+   },
+   "digitru.st": {
+      "categories": [ "Ad Motivated Tracking" ],
+      "owner": {
+         "displayName": "Cookie Trust",
+         "name": "Cookie Trust Working Group, Inc. DBA Cookie Trust",
+         "privacyPolicy": "https://www.digitru.st/privacy-policy/",
+         "url": "http://digitru.st"
+      }
+   },
+   "disqus.com": {
+      "categories": [ "Federated Login", "Social - Comment", "Embedded Content" ],
+      "owner": {
+         "displayName": "Disqus",
+         "name": "Disqus, Inc.",
+         "privacyPolicy": "https://help.disqus.com/terms-and-policies/disqus-privacy-policy",
+         "url": "http://disqus.com"
+      }
+   },
+   "districtm.io": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "District M",
+         "name": "District M Inc.",
+         "privacyPolicy": "https://districtm.net/en/page/platforms-data-and-privacy-policy/",
+         "url": "http://districtm.net"
+      }
+   },
+   "dmxleo.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Federated Login", "Third-Party Analytics Marketing", "Social - Share", "Embedded Content" ],
+      "owner": {
+         "displayName": "Dailymotion",
+         "name": "Dailymotion SA"
+      }
+   },
+   "dotomi.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Conversant",
+         "name": "Conversant LLC",
+         "privacyPolicy": "https://www.conversantmedia.com/legal/privacy",
+         "url": "http://conversantmedia.com"
+      }
+   },
+   "doubleclick.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Google",
+         "name": "Google LLC",
+         "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+         "url": "http://google.com"
+      }
+   },
+   "doubleverify.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "DoubleVerify",
+         "name": "DoubleVerify",
+         "privacyPolicy": "https://www.doubleverify.com/privacy/",
+         "url": "http://doubleverify.com"
+      }
+   },
+   "drift.com": {
+      "categories": [ "Embedded Content" ],
+      "owner": {
+         "displayName": "Drift.com",
+         "name": "Drift.com, Inc."
+      }
+   },
+   "driftt.com": {
+      "categories": [ "Analytics", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Drift.com",
+         "name": "Drift.com, Inc."
+      }
+   },
+   "dtscout.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "DTS",
+         "name": "DTS Technology",
+         "privacyPolicy": "http://www.dtscout.com/techpolicy.html",
+         "url": "http://dtscout.com"
+      }
+   },
+   "dwin1.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Awin",
+         "name": "Awin AG",
+         "privacyPolicy": "https://www.awin.com/gb/legal/privacy-policy",
+         "url": "http://awin.com"
+      }
+   },
+   "dynamicyield.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Dynamic Yield",
+         "name": "Dynamic Yield",
+         "privacyPolicy": "https://www.dynamicyield.com/platform-privacy-policy/",
+         "url": "http://dynamicyield.com"
+      }
+   },
+   "dyntrk.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Audience Measurement" ],
+      "owner": {
+         "displayName": "DynAdmic",
+         "name": "DynAdmic"
+      }
+   },
+   "e-planning.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Teroa",
+         "name": "Teroa S.A."
+      }
+   },
+   "eloqua.com": {
+      "categories": [ "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "emxdgt.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Engine USA",
+         "name": "Engine USA LLC",
+         "privacyPolicy": "https://emxdigital.com/privacy/",
+         "url": "http://emxdigital.com"
+      }
+   },
+   "en25.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "ensighten.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Ensighten",
+         "name": "Ensighten, Inc",
+         "privacyPolicy": "https://www.ensighten.com/privacy-policy/",
+         "url": "http://ensighten.com"
+      }
+   },
+   "erne.co": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "AdPilot",
+         "name": "AdPilot"
+      }
+   },
+   "everestjs.net": {
+      "categories": [ "Ad Motivated Tracking" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "everesttech.net": {
+      "categories": [ "Ad Motivated Tracking", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "evidon.com": {
+      "categories": [ "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Crownpeak",
+         "name": "Crownpeak Technology",
+         "privacyPolicy": "https://www.crownpeak.com/privacy.aspx",
+         "url": "http://crownpeak.com"
+      }
+   },
+   "exelator.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Action Pixels" ],
+      "owner": {
+         "displayName": "The Nielsen Company",
+         "name": "The Nielsen Company",
+         "privacyPolicy": "http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html",
+         "url": "http://nielsen.com"
+      }
+   },
+   "exoclick.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "ExoClick",
+         "name": "ExoClick, S.L.",
+         "privacyPolicy": "https://www.exoclick.com/privacy/",
+         "url": "http://exoclick.com"
+      }
+   },
+   "exosrv.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "ExoClick",
+         "name": "ExoClick, S.L.",
+         "privacyPolicy": "https://www.exoclick.com/privacy/",
+         "url": "http://exoclick.com"
+      }
+   },
+   "exponential.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Exponential Interactive",
+         "name": "Exponential Interactive Inc.",
+         "privacyPolicy": "http://exponential.com/privacy/",
+         "url": "http://exponential.com"
+      }
+   },
+   "eyeota.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "eyeota",
+         "name": "eyeota Limited",
+         "privacyPolicy": "https://www.eyeota.com/privacy-policy",
+         "url": "http://eyeota.com"
+      }
+   },
+   "eyereturn.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "eyeReturn Marketing",
+         "name": "eyeReturn Marketing Inc.",
+         "privacyPolicy": "https://eyereturnmarketing.com/privacy/",
+         "url": "http://eyereturnmarketing.com"
+      }
+   },
+   "ezoic.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Ezoic",
+         "name": "Ezoic Inc.",
+         "privacyPolicy": "https://www.ezoic.com/privacy-policy/",
+         "url": "http://ezoic.com"
+      }
+   },
+   "facebook.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Federated Login", "Social - Comment", "Social - Share", "Action Pixels", "Badge", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "Facebook",
+         "name": "Facebook, Inc.",
+         "privacyPolicy": "https://www.facebook.com/privacy/explanation",
+         "url": "http://facebook.com"
+      }
+   },
+   "facebook.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Federated Login", "Social - Comment", "Social - Share", "Action Pixels", "Badge", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "Facebook",
+         "name": "Facebook, Inc.",
+         "privacyPolicy": "https://www.facebook.com/privacy/explanation",
+         "url": "http://facebook.com"
+      }
+   },
+   "fastly-insights.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Fastly",
+         "name": "Fastly, Inc.",
+         "privacyPolicy": "https://www.fastly.com/privacy",
+         "url": "http://fastly.com"
+      }
+   },
+   "fg8dgt.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "FastG8",
+         "name": "FastG8",
+         "privacyPolicy": "http://www.fastg8.com/privacypolicy/",
+         "url": "http://fastg8.com"
+      }
+   },
+   "flashtalking.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Embedded Content", "Session Replay" ],
+      "owner": {
+         "displayName": "Flashtalking",
+         "name": "Flashtalking Inc"
+      }
+   },
+   "foresee.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "ForeSee Results",
+         "name": "ForeSee Results, Inc.",
+         "privacyPolicy": "https://www.foresee.com/privacy-policy/",
+         "url": "http://foresee.com"
+      }
+   },
+   "fullstory.com": {
+      "categories": [ "Analytics", "Session Replay" ],
+      "owner": {
+         "displayName": "FullStory",
+         "name": "FullStory",
+         "privacyPolicy": "https://www.fullstory.com/legal/privacy/",
+         "url": "http://fullstory.com"
+      }
+   },
+   "fwmrm.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "FreeWheel",
+         "name": "FreeWheel",
+         "privacyPolicy": "http://freewheel.tv/privacy-policy/",
+         "url": "http://freewheel.tv"
+      }
+   },
+   "gemius.pl": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Gemius",
+         "name": "Gemius S.A.",
+         "privacyPolicy": "https://www.gemius.com/privacy-policy.html",
+         "url": "http://gemius.com"
+      }
+   },
+   "getclicky.com": {
+      "categories": [ "Ad Fraud", "Analytics" ],
+      "owner": {
+         "displayName": "Roxr Software",
+         "name": "Roxr Software Ltd",
+         "privacyPolicy": "https://clicky.com/terms/privacy",
+         "url": "http://clicky.com"
+      }
+   },
+   "getsitecontrol.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "GetWebCraft",
+         "name": "GetWebCraft Limited",
+         "privacyPolicy": "https://getsitecontrol.com/privacy/",
+         "url": "http://getsitecontrol.com"
+      }
+   },
+   "go-mpulse.net": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Akamai",
+         "name": "Akamai Technologies",
+         "privacyPolicy": "https://www.akamai.com/us/en/privacy-policies/",
+         "url": "http://akamai.com"
+      }
+   },
+   "google-analytics.com": {
+      "categories": [ "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Google",
+         "name": "Google LLC",
+         "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+         "url": "http://google.com"
+      }
+   },
+   "googleadservices.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Google",
+         "name": "Google LLC",
+         "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+         "url": "http://google.com"
+      }
+   },
+   "googlesyndication.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Google",
+         "name": "Google LLC",
+         "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+         "url": "http://google.com"
+      }
+   },
+   "googletagmanager.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Google",
+         "name": "Google LLC",
+         "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+         "url": "http://google.com"
+      }
+   },
+   "googletagservices.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Google",
+         "name": "Google LLC",
+         "privacyPolicy": "https://policies.google.com/privacy?hl=en&gl=us",
+         "url": "http://google.com"
+      }
+   },
+   "gumgum.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "GumGum",
+         "name": "GumGum",
+         "privacyPolicy": "https://gumgum.com/privacy-policy",
+         "url": "http://gumgum.com"
+      }
+   },
+   "heapanalytics.com": {
+      "categories": [ "Analytics", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Heap",
+         "name": "Heap",
+         "privacyPolicy": "https://heap.io/privacy",
+         "url": "http://heap.io"
+      }
+   },
+   "hellobar.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Crazy Egg",
+         "name": "Crazy Egg, Inc.",
+         "privacyPolicy": "https://www.crazyegg.com/privacy",
+         "url": "http://crazyegg.com"
+      }
+   },
+   "histats.com": {
+      "categories": [ "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "wisecode",
+         "name": "wisecode s.r.l.",
+         "privacyPolicy": "https://www.histats.com/?act=102",
+         "url": "http://histats.com"
+      }
+   },
+   "hotjar.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Session Replay" ],
+      "owner": {
+         "displayName": "Hotjar",
+         "name": "Hotjar Ltd",
+         "privacyPolicy": "https://www.hotjar.com/legal/policies/privacy",
+         "url": "http://hotjar.com"
+      }
+   },
+   "hs-analytics.net": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "HubSpot",
+         "name": "HubSpot, Inc.",
+         "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+         "url": "http://hubspot.com"
+      }
+   },
+   "hsadspixel.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "HubSpot",
+         "name": "HubSpot, Inc.",
+         "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+         "url": "http://hubspot.com"
+      }
+   },
+   "hsleadflows.net": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "HubSpot",
+         "name": "HubSpot, Inc.",
+         "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+         "url": "http://hubspot.com"
+      }
+   },
+   "hubapi.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "HubSpot",
+         "name": "HubSpot, Inc.",
+         "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+         "url": "http://hubspot.com"
+      }
+   },
+   "hubspot.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "HubSpot",
+         "name": "HubSpot, Inc.",
+         "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+         "url": "http://hubspot.com"
+      }
+   },
+   "hybrid.ai": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Hybrid Adtech",
+         "name": "Hybrid Adtech, Inc.",
+         "privacyPolicy": "https://hybrid.ai/privacy_policy",
+         "url": "http://hybrid.ai"
+      }
+   },
+   "iasds01.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "Integral Ad Science",
+         "name": "Integral Ad Science, Inc.",
+         "privacyPolicy": "https://integralads.com/privacy-policy/",
+         "url": "http://integralads.com"
+      }
+   },
+   "ib-ibi.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "KBM Group",
+         "name": "KBM Group LLC",
+         "privacyPolicy": "https://www.kbmg.com/about-us/privacy/",
+         "url": "http://kbmg.com"
+      }
+   },
+   "ibillboard.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Internet Billboard",
+         "name": "Internet Billboard a.s.",
+         "privacyPolicy": "http://www.ibillboard.com/en/privacy-information/",
+         "url": "http://ibillboard.com"
+      }
+   },
+   "id5-sync.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "ID5",
+         "name": "ID5 Technology Ltd",
+         "privacyPolicy": "https://www.id5.io/privacy-policy",
+         "url": "http://id5.io"
+      }
+   },
+   "igodigital.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Salesforce.com",
+         "name": "Salesforce.com, Inc.",
+         "privacyPolicy": "https://www.salesforce.com/company/privacy/",
+         "url": "http://salesforce.com"
+      }
+   },
+   "impactradius-event.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Impact",
+         "name": "Impact"
+      }
+   },
+   "imrworldwide.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "The Nielsen Company",
+         "name": "The Nielsen Company",
+         "privacyPolicy": "http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html",
+         "url": "http://nielsen.com"
+      }
+   },
+   "indexww.com": {
+      "categories": [ "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Index Exchange",
+         "name": "Index Exchange, Inc.",
+         "privacyPolicy": "http://casalemedia.com/",
+         "url": "http://casalemedia.com"
+      }
+   },
+   "innovid.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Innovid Media",
+         "name": "Innovid Media",
+         "privacyPolicy": "https://www.innovid.com/privacy-policy/",
+         "url": "http://innovid.com"
+      }
+   },
+   "insightexpressai.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Kantar Operations",
+         "name": "Kantar Operations",
+         "privacyPolicy": "https://www.millwardbrowndigital.com/about/privacy/",
+         "url": "http://millwardbrowndigital.com"
+      }
+   },
+   "instagram.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Social - Share", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "Facebook",
+         "name": "Facebook, Inc.",
+         "privacyPolicy": "https://help.instagram.com/402411646841720",
+         "url": "http://instagram.com"
+      }
+   },
+   "intentiq.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Intent IQ",
+         "name": "Intent IQ, LLC",
+         "privacyPolicy": "https://www.intentiq.com/technology-privacy-policy",
+         "url": "http://intentiq.com"
+      }
+   },
+   "ioam.de": {
+      "categories": [ "Audience Measurement" ],
+      "owner": {
+         "displayName": "INFOnline",
+         "name": "INFOnline GmbH",
+         "privacyPolicy": "https://www.infonline.de/en/privacy-policy/",
+         "url": "http://infonline.de"
+      }
+   },
+   "ipredictive.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Adelphic",
+         "name": "Adelphic, Inc.",
+         "privacyPolicy": "https://my.ipredictive.com/optout/",
+         "url": "http://ipredictive.com"
+      }
+   },
+   "ispot.tv": {
+      "categories": [ "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "iSpot.tv",
+         "name": "iSpot.tv",
+         "privacyPolicy": "https://www.ispot.tv/agreements",
+         "url": "http://ispot.tv"
+      }
+   },
+   "juicyads.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Malware" ],
+      "owner": {
+         "displayName": "JuicyAds",
+         "name": "JuicyAds",
+         "privacyPolicy": "http://juicyads.com/privacy",
+         "url": "http://juicyads.com"
+      }
+   },
+   "justpremium.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "JustPremium",
+         "name": "JustPremium",
+         "privacyPolicy": "https://justpremium.com/terms-conditions/",
+         "url": "http://justpremium.com"
+      }
+   },
+   "kampyle.com": {
+      "categories": [ "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Medallia",
+         "name": "Medallia Inc.",
+         "privacyPolicy": "https://www.medallia.com/privacy-policy/",
+         "url": "http://medallia.com"
+      }
+   },
+   "kargo.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "Kargo",
+         "name": "Kargo Global, Inc."
+      }
+   },
+   "klaviyo.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Klaviyo",
+         "name": "Klaviyo",
+         "privacyPolicy": "https://www.klaviyo.com/privacy",
+         "url": "http://klaviyo.com"
+      }
+   },
+   "krxd.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Salesforce.com",
+         "name": "Salesforce.com, Inc.",
+         "privacyPolicy": "https://www.salesforce.com/company/privacy/",
+         "url": "http://salesforce.com"
+      }
+   },
+   "liadm.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "LiveIntent",
+         "name": "LiveIntent Inc.",
+         "privacyPolicy": "https://liveintent.com/privacy-policy/",
+         "url": "http://liveintent.com"
+      }
+   },
+   "lijit.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Sovrn Holdings",
+         "name": "Sovrn Holdings",
+         "privacyPolicy": "https://www.sovrn.com/sovrn-legal-policies/",
+         "url": "http://sovrn.com"
+      }
+   },
+   "linkedin.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Social - Share", "Action Pixels", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "LinkedIn",
+         "name": "LinkedIn Corporation",
+         "privacyPolicy": "https://www.linkedin.com/legal/privacy-policy",
+         "url": "http://linkedin.com"
+      }
+   },
+   "linksynergy.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Rakuten",
+         "name": "Rakuten, Inc.",
+         "privacyPolicy": "https://rakutenmarketing.com/legal-notices/services-privacy-policy",
+         "url": "http://rakutenmarketing.com"
+      }
+   },
+   "list-manage.com": {
+      "categories": [ "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "The Rocket Science Group",
+         "name": "The Rocket Science Group, LLC",
+         "privacyPolicy": "https://mailchimp.com/legal/privacy/",
+         "url": "http://mailchimp.com"
+      }
+   },
+   "listrakbi.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Listrak",
+         "name": "Listrak",
+         "privacyPolicy": "https://www.listrak.com/privacy-and-terms/privacy",
+         "url": "http://listrak.com"
+      }
+   },
+   "livechatinc.com": {
+      "categories": [ "Embedded Content" ],
+      "owner": {
+         "displayName": "LiveChat",
+         "name": "LiveChat Inc",
+         "privacyPolicy": "https://www.livechatinc.com/legal/privacy-policy/",
+         "url": "http://livechatinc.com"
+      }
+   },
+   "liveperson.net": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Embedded Content" ],
+      "owner": {
+         "displayName": "LivePerson",
+         "name": "LivePerson, Inc",
+         "privacyPolicy": "https://www.liveperson.com/policies/privacy",
+         "url": "http://liveperson.com"
+      }
+   },
+   "lkqd.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Nexstar Media Group",
+         "name": "Nexstar Media Group",
+         "privacyPolicy": "https://www.nexstardigital.com/privacy",
+         "url": "http://nexstardigital.com"
+      }
+   },
+   "lockerdome.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "LockerDome",
+         "name": "LockerDome, LLC",
+         "privacyPolicy": "https://lockerdome.com/privacy",
+         "url": "http://lockerdome.com"
+      }
+   },
+   "loopme.me": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "LoopMe",
+         "name": "LoopMe Ltd",
+         "privacyPolicy": "https://loopme.com/privacy-policy/",
+         "url": "http://loopme.com"
+      }
+   },
+   "lpsnmedia.net": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Embedded Content" ],
+      "owner": {
+         "displayName": "LivePerson",
+         "name": "LivePerson, Inc",
+         "privacyPolicy": "https://www.liveperson.com/policies/privacy",
+         "url": "http://liveperson.com"
+      }
+   },
+   "m6r.eu": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Ströer Group",
+         "name": "Ströer Group"
+      }
+   },
+   "mail.ru": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Social - Share", "Action Pixels", "Embedded Content" ],
+      "owner": {
+         "displayName": "Mail.Ru",
+         "name": "Mail.Ru Group, OOO"
+      }
+   },
+   "mailchimp.com": {
+      "categories": [ "Advertising", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "The Rocket Science Group",
+         "name": "The Rocket Science Group, LLC",
+         "privacyPolicy": "https://mailchimp.com/legal/privacy/",
+         "url": "http://mailchimp.com"
+      }
+   },
+   "marinsm.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Sharpspring",
+         "name": "Sharpspring Inc"
+      }
+   },
+   "marketo.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "mathtag.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "MediaMath",
+         "name": "MediaMath, Inc.",
+         "privacyPolicy": "http://www.mediamath.com/privacy-policy/",
+         "url": "http://mediamath.com"
+      }
+   },
+   "maxmind.com": {
+      "categories": [ "Ad Motivated Tracking", "Ad Fraud", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "MaxMind",
+         "name": "MaxMind Inc.",
+         "privacyPolicy": "https://www.maxmind.com/en/privacy-policy",
+         "url": "http://maxmind.com"
+      }
+   },
+   "maxymiser.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "media.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Media.net Advertising",
+         "name": "Media.net Advertising FZ-LLC",
+         "privacyPolicy": "https://www.media.net/en/privacy-policy",
+         "url": "http://media.net"
+      }
+   },
+   "media6degrees.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Dstillery",
+         "name": "Dstillery Inc.",
+         "privacyPolicy": "https://dstillery.com/privacy-policy/",
+         "url": "http://dstillery.com"
+      }
+   },
+   "mediavine.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Mediavine",
+         "name": "Mediavine, Inc.",
+         "privacyPolicy": "https://www.mediavine.com/privacy-policy/",
+         "url": "http://mediavine.com"
+      }
+   },
+   "mediawallahscript.com": {
+      "categories": [ "Ad Motivated Tracking", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "MediaWallah",
+         "name": "MediaWallah LLC",
+         "privacyPolicy": "https://www.mediawallah.com/privacy-policy",
+         "url": "http://mediawallah.com"
+      }
+   },
+   "meetrics.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Meetrics",
+         "name": "Meetrics GmbH",
+         "privacyPolicy": "https://www.meetrics.com/en/data-privacy/",
+         "url": "http://meetrics.com"
+      }
+   },
+   "mfadsrvr.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "IPONWEB",
+         "name": "IPONWEB GmbH",
+         "privacyPolicy": "https://www.iponweb.com/privacy-policy/",
+         "url": "http://iponweb.com"
+      }
+   },
+   "mgid.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "MGID",
+         "name": "MGID Inc",
+         "privacyPolicy": "https://www.mgid.com/privacy-policy",
+         "url": "http://mgid.com"
+      }
+   },
+   "micpn.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Movable Ink",
+         "name": "Movable Ink",
+         "privacyPolicy": "https://movableink.com/legal/privacy",
+         "url": "http://movableink.com"
+      }
+   },
+   "microad.jp": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "MicroAd",
+         "name": "MicroAd, Inc."
+      }
+   },
+   "mixpanel.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Mixpanel",
+         "name": "Mixpanel, Inc.",
+         "privacyPolicy": "https://mixpanel.com/privacy/",
+         "url": "http://mixpanel.com"
+      }
+   },
+   "mktoresp.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "ml314.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Bombora",
+         "name": "Bombora Inc.",
+         "privacyPolicy": "https://bombora.com/privacy/",
+         "url": "http://bombora.com"
+      }
+   },
+   "moatads.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Oracle",
+         "name": "Oracle Corporation",
+         "privacyPolicy": "https://www.oracle.com/legal/privacy/privacy-policy.html",
+         "url": "http://oracle.com"
+      }
+   },
+   "monetate.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Embedded Content" ],
+      "owner": {
+         "displayName": "Monetate",
+         "name": "Monetate, Inc.",
+         "privacyPolicy": "https://www.monetate.com/website-privacy-policy",
+         "url": "http://monetate.com"
+      }
+   },
+   "mookie1.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Xaxis",
+         "name": "Xaxis"
+      }
+   },
+   "mouseflow.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Third-Party Analytics Marketing", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Mouseflow",
+         "name": "Mouseflow",
+         "privacyPolicy": "https://mouseflow.com/privacy/",
+         "url": "http://mouseflow.com"
+      }
+   },
+   "mxpnl.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Mixpanel",
+         "name": "Mixpanel, Inc.",
+         "privacyPolicy": "https://mixpanel.com/privacy/",
+         "url": "http://mixpanel.com"
+      }
+   },
+   "mxptint.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Valassis Digital",
+         "name": "Valassis Digital",
+         "privacyPolicy": "https://www.valassisdigital.com/legal/privacy-policy/",
+         "url": "http://valassisdigital.com"
+      }
+   },
+   "myvisualiq.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "The Nielsen Company",
+         "name": "The Nielsen Company",
+         "privacyPolicy": "http://www.nielsen.com/us/en/privacy-statement/digital-measurement.html",
+         "url": "http://nielsen.com"
+      }
+   },
+   "navdmp.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Navegg",
+         "name": "Navegg S.A.",
+         "privacyPolicy": "https://www.navegg.com/en/privacy-policy/",
+         "url": "http://navegg.com"
+      }
+   },
+   "netmng.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Action Pixels" ],
+      "owner": {
+         "displayName": "IgnitionOne",
+         "name": "IgnitionOne, LLC",
+         "privacyPolicy": "https://ignitionone.com/privacy-policy/",
+         "url": "http://ignitionone.com"
+      }
+   },
+   "newrelic.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "New Relic",
+         "name": "New Relic",
+         "privacyPolicy": "https://newrelic.com/privacy",
+         "url": "http://newrelic.com"
+      }
+   },
+   "ninthdecimal.com": {
+      "categories": [ "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "NinthDecimal",
+         "name": "NinthDecimal, Inc",
+         "privacyPolicy": "https://www.ninthdecimal.com/privacy-policy-terms-of-service/",
+         "url": "http://ninthdecimal.com"
+      }
+   },
+   "npttech.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "SSO", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Piano Software",
+         "name": "Piano Software",
+         "privacyPolicy": "https://piano.io/privacy-policy/",
+         "url": "http://piano.io"
+      }
+   },
+   "nr-data.net": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "New Relic",
+         "name": "New Relic",
+         "privacyPolicy": "https://newrelic.com/privacy",
+         "url": "http://newrelic.com"
+      }
+   },
+   "ntv.io": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Nativo",
+         "name": "Nativo, Inc",
+         "privacyPolicy": "https://www.nativo.com/privacy-policy",
+         "url": "http://nativo.com"
+      }
+   },
+   "nuggad.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "nugg.ad",
+         "name": "nugg.ad GmbH",
+         "privacyPolicy": "https://www.nugg.ad/en/privacy/general-information.html",
+         "url": "http://nugg.ad"
+      }
+   },
+   "olark.com": {
+      "categories": [ "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Olark",
+         "name": "Olark",
+         "privacyPolicy": "https://www.olark.com/privacy-policy",
+         "url": "http://olark.com"
+      }
+   },
+   "omnitagjs.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Adyoulike",
+         "name": "Adyoulike",
+         "privacyPolicy": "https://www.adyoulike.com/privacy_policy.php",
+         "url": "http://adyoulike.com"
+      }
+   },
+   "omtrdc.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Adobe",
+         "name": "Adobe Inc.",
+         "privacyPolicy": "https://www.adobe.com/privacy/marketing-cloud.html",
+         "url": "http://adobe.com"
+      }
+   },
+   "onesignal.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "OneSignal",
+         "name": "OneSignal",
+         "privacyPolicy": "https://onesignal.com/privacy_policy",
+         "url": "http://onesignal.com"
+      }
+   },
+   "openx.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Audience Measurement" ],
+      "owner": {
+         "displayName": "OpenX",
+         "name": "OpenX Technologies Inc",
+         "privacyPolicy": "https://www.openx.com/legal/privacy-policy/",
+         "url": "http://openx.com"
+      }
+   },
+   "opmnstr.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Action Pixels", "Embedded Content" ],
+      "owner": {
+         "displayName": "Retyp",
+         "name": "Retyp LLC",
+         "privacyPolicy": "https://optinmonster.com/privacy/",
+         "url": "http://optinmonster.com"
+      }
+   },
+   "optmnstr.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Action Pixels", "Embedded Content" ],
+      "owner": {
+         "displayName": "Retyp",
+         "name": "Retyp LLC",
+         "privacyPolicy": "https://optinmonster.com/privacy/",
+         "url": "http://optinmonster.com"
+      }
+   },
+   "outbrain.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Outbrain",
+         "name": "Outbrain",
+         "privacyPolicy": "https://www.outbrain.com/legal/privacy",
+         "url": "http://outbrain.com"
+      }
+   },
+   "owneriq.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Inmar",
+         "name": "Inmar, Inc."
+      }
+   },
+   "pardot.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Embedded Content" ],
+      "owner": {
+         "displayName": "Salesforce.com",
+         "name": "Salesforce.com, Inc.",
+         "privacyPolicy": "https://www.salesforce.com/company/privacy/",
+         "url": "http://salesforce.com"
+      }
+   },
+   "parsely.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Parsely",
+         "name": "Parsely, Inc.",
+         "privacyPolicy": "https://www.parse.ly/privacy-policy/",
+         "url": "http://parse.ly"
+      }
+   },
+   "paypal.com": {
+      "categories": [ "Analytics", "Audience Measurement", "SSO", "Online Payment", "Badge", "Embedded Content" ],
+      "owner": {
+         "displayName": "PayPal",
+         "name": "PayPal, Inc.",
+         "privacyPolicy": "https://www.paypal.com/us/webapps/mpp/ua/privacy-full",
+         "url": "http://paypal.com"
+      }
+   },
+   "perfectmarket.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Session Replay" ],
+      "owner": {
+         "displayName": "Perfect Market",
+         "name": "Perfect Market, Inc."
+      }
+   },
+   "permutive.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Session Replay" ],
+      "owner": {
+         "displayName": "Permutive",
+         "name": "Permutive, Inc.",
+         "privacyPolicy": "https://permutive.com/privacy/",
+         "url": "http://permutive.com"
+      }
+   },
+   "pingdom.net": {
+      "categories": [ "Analytics", "Audience Measurement", "Action Pixels" ],
+      "owner": {
+         "displayName": "Pingdom",
+         "name": "Pingdom AB",
+         "privacyPolicy": "https://www.pingdom.com/legal/cookie-policy/",
+         "url": "http://pingdom.com"
+      }
+   },
+   "pippio.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "LiveRamp",
+         "name": "LiveRamp",
+         "privacyPolicy": "https://liveramp.com/privacy/",
+         "url": "http://liveramp.com"
+      }
+   },
+   "playground.xyz": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "PLAYGROUND XYZ",
+         "name": "PLAYGROUND XYZ",
+         "privacyPolicy": "https://playground.xyz/privacy/",
+         "url": "http://playground.xyz"
+      }
+   },
+   "postrelease.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Nativo",
+         "name": "Nativo, Inc",
+         "privacyPolicy": "https://www.nativo.com/privacy-policy",
+         "url": "http://nativo.com"
+      }
+   },
+   "powerlinks.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Embedded Content" ],
+      "owner": {
+         "displayName": "PowerLinks Media",
+         "name": "PowerLinks Media Limited",
+         "privacyPolicy": "https://www.powerlinks.com/privacy-policy/",
+         "url": "http://powerlinks.com"
+      }
+   },
+   "pro-market.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Datonics",
+         "name": "Datonics LLC",
+         "privacyPolicy": "https://www.datonics.com/privacy/",
+         "url": "http://datonics.com"
+      }
+   },
+   "promo-bc.com": {
+      "categories": [ "Advertising", "Embedded Content" ],
+      "owner": {
+         "displayName": "BongaCams",
+         "name": "BongaCams"
+      }
+   },
+   "pswec.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Proclivity Media",
+         "name": "Proclivity Media, Inc.",
+         "privacyPolicy": "https://www.proclivitysystems.com/",
+         "url": "http://proclivitysystems.com"
+      }
+   },
+   "pubmatic.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "PubMatic",
+         "name": "PubMatic, Inc.",
+         "privacyPolicy": "https://pubmatic.com/legal/privacy-policy/",
+         "url": "http://pubmatic.com"
+      }
+   },
+   "qualaroo.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Embedded Content", "Session Replay" ],
+      "owner": {
+         "displayName": "Qualaroo",
+         "name": "Qualaroo",
+         "privacyPolicy": "https://qualaroo.com/privacy-policy/",
+         "url": "http://qualaroo.com"
+      }
+   },
+   "qualtrics.com": {
+      "categories": [ "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Embedded Content", "Session Replay" ],
+      "owner": {
+         "displayName": "Qualtrics",
+         "name": "Qualtrics, LLC",
+         "privacyPolicy": "https://www.qualtrics.com/privacy-statement/",
+         "url": "http://qualtrics.com"
+      }
+   },
+   "quantserve.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Quantcast",
+         "name": "Quantcast Corporation",
+         "privacyPolicy": "http://www.quantcast.com/privacy",
+         "url": "http://quantcast.com"
+      }
+   },
+   "quora.com": {
+      "categories": [ "Advertising", "Analytics", "Social - Comment", "Social - Share", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "Quora",
+         "name": "Quora",
+         "privacyPolicy": "https://www.quora.com/about/privacy",
+         "url": "http://quora.com"
+      }
+   },
+   "rambler.ru": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Rambler Internet Holding",
+         "name": "Rambler Internet Holding, LLC"
+      }
+   },
+   "ravenjs.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Functional Software",
+         "name": "Functional Software, Inc.",
+         "privacyPolicy": "https://sentry.io/privacy/",
+         "url": "http://sentry.io"
+      }
+   },
+   "realsrv.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "ExoClick",
+         "name": "ExoClick, S.L.",
+         "privacyPolicy": "https://www.exoclick.com/privacy/",
+         "url": "http://exoclick.com"
+      }
+   },
+   "realvu.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics" ],
+      "owner": {
+         "displayName": "RealVu",
+         "name": "RealVu Inc"
+      }
+   },
+   "reddit.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Social - Comment", "Social - Share", "Badge", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "Reddit",
+         "name": "Reddit Inc.",
+         "privacyPolicy": "https://www.redditinc.com/policies/privacy-policy",
+         "url": "http://redditinc.com"
+      }
+   },
+   "redditstatic.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Action Pixels" ],
+      "owner": {
+         "displayName": "Reddit",
+         "name": "Reddit Inc.",
+         "privacyPolicy": "https://www.redditinc.com/policies/privacy-policy",
+         "url": "http://redditinc.com"
+      }
+   },
+   "reson8.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Resonate Networks",
+         "name": "Resonate Networks",
+         "privacyPolicy": "http://reson8.com/",
+         "url": "http://reson8.com"
+      }
+   },
+   "revjet.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "RevJet",
+         "name": "RevJet",
+         "privacyPolicy": "https://www.revjet.com/privacy",
+         "url": "http://revjet.com"
+      }
+   },
+   "rezync.com": {
+      "categories": [ "Ad Motivated Tracking" ],
+      "owner": {
+         "displayName": "Zeta Global",
+         "name": "Zeta Global",
+         "privacyPolicy": "https://zetaglobal.com/privacy-policy/",
+         "url": "http://zetaglobal.com"
+      }
+   },
+   "rfihub.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Zeta Global",
+         "name": "Zeta Global",
+         "privacyPolicy": "https://zetaglobal.com/privacy-policy/",
+         "url": "http://zetaglobal.com"
+      }
+   },
+   "rkdms.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Merkle",
+         "name": "Merkle Inc",
+         "privacyPolicy": "https://www.merkleinc.com/privacy",
+         "url": "http://merkleinc.com"
+      }
+   },
+   "rlcdn.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "TowerData",
+         "name": "TowerData, Inc."
+      }
+   },
+   "rmtag.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Rakuten",
+         "name": "Rakuten, Inc.",
+         "privacyPolicy": "https://rakutenmarketing.com/legal-notices/services-privacy-policy",
+         "url": "http://rakutenmarketing.com"
+      }
+   },
+   "rtmark.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "Propeller Ads",
+         "name": "Propeller Ads",
+         "privacyPolicy": "https://propellerads.com/privacy/",
+         "url": "http://propellerads.com"
+      }
+   },
+   "rubiconproject.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "The Rubicon Project",
+         "name": "The Rubicon Project, Inc.",
+         "privacyPolicy": "http://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/",
+         "url": "http://rubiconproject.com"
+      }
+   },
+   "rutarget.ru": {
+      "categories": [ "Ad Motivated Tracking", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "RuTarget",
+         "name": "RuTarget LLC",
+         "privacyPolicy": "https://segmento.ru/privacy",
+         "url": "http://segmento.ru"
+      }
+   },
+   "s-onetag.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Sovrn Holdings",
+         "name": "Sovrn Holdings",
+         "privacyPolicy": "https://www.sovrn.com/sovrn-legal-policies/",
+         "url": "http://sovrn.com"
+      }
+   },
+   "sail-horizon.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Sailthru",
+         "name": "Sailthru, Inc",
+         "privacyPolicy": "https://www.sailthru.com/legal/privacy-statement/",
+         "url": "http://sailthru.com"
+      }
+   },
+   "salesforceliveagent.com": {
+      "categories": [ "Embedded Content" ],
+      "owner": {
+         "displayName": "Salesforce.com",
+         "name": "Salesforce.com, Inc.",
+         "privacyPolicy": "https://www.salesforce.com/company/privacy/",
+         "url": "http://salesforce.com"
+      }
+   },
+   "samplicio.us": {
+      "categories": [ "Ad Motivated Tracking", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Lucid Holdings",
+         "name": "Lucid Holdings, LLC"
+      }
+   },
+   "scarabresearch.com": {
+      "categories": [ "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Emarsys eMarketing Systems",
+         "name": "Emarsys eMarketing Systems AG",
+         "privacyPolicy": "https://www.emarsys.com/en/privacy-policy/",
+         "url": "http://emarsys.com"
+      }
+   },
+   "scorecardresearch.com": {
+      "categories": [ "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "comScore",
+         "name": "comScore, Inc",
+         "privacyPolicy": "https://www.comscore.com/About/Privacy-Policy",
+         "url": "http://comscore.com"
+      }
+   },
+   "securedvisit.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "4Cite Marketing",
+         "name": "4Cite Marketing",
+         "privacyPolicy": "https://www.4cite.com/4cite-marketing-llc-privacy-policy/",
+         "url": "http://4cite.com"
+      }
+   },
+   "segment.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Segment.io",
+         "name": "Segment.io, Inc.",
+         "privacyPolicy": "https://segment.io/privacy",
+         "url": "http://segment.io"
+      }
+   },
+   "semasio.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Semasio",
+         "name": "Semasio GmbH",
+         "privacyPolicy": "https://www.semasio.com/privacy",
+         "url": "http://semasio.com"
+      }
+   },
+   "sessioncam.com": {
+      "categories": [ "Analytics", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "SessionCam",
+         "name": "SessionCam Ltd",
+         "privacyPolicy": "https://sessioncam.com/privacy-policy-cookies/",
+         "url": "http://sessioncam.com"
+      }
+   },
+   "shareaholic.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing", "Social - Share", "Embedded Content" ],
+      "owner": {
+         "displayName": "Shareaholic",
+         "name": "Shareaholic Inc",
+         "privacyPolicy": "https://www.shareaholic.com/privacy/",
+         "url": "http://shareaholic.com"
+      }
+   },
+   "sharethis.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing", "Social - Share", "Embedded Content" ],
+      "owner": {
+         "displayName": "ShareThis",
+         "name": "ShareThis, Inc",
+         "privacyPolicy": "https://www.sharethis.com/privacy/",
+         "url": "http://sharethis.com"
+      }
+   },
+   "sharethrough.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Sharethrough",
+         "name": "Sharethrough, Inc.",
+         "privacyPolicy": "https://platform-cdn.sharethrough.com/privacy-policy",
+         "url": "http://sharethrough.com"
+      }
+   },
+   "simpli.fi": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Simplifi Holdings",
+         "name": "Simplifi Holdings Inc.",
+         "privacyPolicy": "https://www.simpli.fi/site-privacy-policy2/",
+         "url": "http://simpli.fi"
+      }
+   },
+   "siteimproveanalytics.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Siteimprove",
+         "name": "Siteimprove A/S",
+         "privacyPolicy": "https://siteimprove.com/en/privacy/privacy-policy/",
+         "url": "http://siteimprove.com"
+      }
+   },
+   "siteimproveanalytics.io": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "Siteimprove",
+         "name": "Siteimprove A/S",
+         "privacyPolicy": "https://siteimprove.com/en/privacy/privacy-policy/",
+         "url": "http://siteimprove.com"
+      }
+   },
+   "sitescout.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Action Pixels" ],
+      "owner": {
+         "displayName": "Centro",
+         "name": "Centro, Inc."
+      }
+   },
+   "smaato.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Smaato",
+         "name": "Smaato Inc.",
+         "privacyPolicy": "https://www.smaato.com/privacy/",
+         "url": "http://smaato.com"
+      }
+   },
+   "smartadserver.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Smartadserver",
+         "name": "Smartadserver S.A.S",
+         "privacyPolicy": "http://smartadserver.com/company/privacy-policy/",
+         "url": "http://smartadserver.com"
+      }
+   },
+   "snapchat.com": {
+      "categories": [ "Ad Motivated Tracking", "Action Pixels", "Social Network" ],
+      "owner": {
+         "displayName": "Snap",
+         "name": "Snap Inc."
+      }
+   },
+   "socdm.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Supership",
+         "name": "Supership Inc",
+         "privacyPolicy": "https://supership.jp/privacy/",
+         "url": "http://supership.jp"
+      }
+   },
+   "sonobi.com": {
+      "categories": [ "Advertising" ],
+      "owner": {
+         "displayName": "Sonobi",
+         "name": "Sonobi, Inc",
+         "privacyPolicy": "https://sonobi.com/privacy-policy/",
+         "url": "http://sonobi.com"
+      }
+   },
+   "spotxchange.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "SpotX",
+         "name": "SpotX, Inc.",
+         "privacyPolicy": "https://www.spotx.tv/privacy-policy/",
+         "url": "http://spotx.tv"
+      }
+   },
+   "springserve.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "SpringServe",
+         "name": "SpringServe, LLC",
+         "privacyPolicy": "https://springserve.com/privacy-policy/",
+         "url": "http://springserve.com"
+      }
+   },
+   "stackadapt.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Action Pixels" ],
+      "owner": {
+         "displayName": "Collective Roll",
+         "name": "Collective Roll",
+         "privacyPolicy": "https://www.stackadapt.com/privacy",
+         "url": "http://stackadapt.com"
+      }
+   },
+   "statcounter.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "StatCounter",
+         "name": "StatCounter",
+         "privacyPolicy": "https://statcounter.com/about/legal/",
+         "url": "http://statcounter.com"
+      }
+   },
+   "steelhousemedia.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Steel House",
+         "name": "Steel House, Inc",
+         "privacyPolicy": "https://steelhouse.com/privacy-policy/",
+         "url": "http://steelhouse.com"
+      }
+   },
+   "stickyadstv.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "FreeWheel",
+         "name": "FreeWheel",
+         "privacyPolicy": "http://freewheel.tv/privacy-policy/",
+         "url": "http://freewheel.tv"
+      }
+   },
+   "storygize.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing", "Action Pixels" ],
+      "owner": {
+         "displayName": "Storygize",
+         "name": "Storygize",
+         "privacyPolicy": "https://www.storygize.com/service-privacy-policy/",
+         "url": "http://storygize.com"
+      }
+   },
+   "sumo.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Sumo Group",
+         "name": "Sumo Group",
+         "privacyPolicy": "https://help.sumo.com/hc/en-us/articles/218958727-Privacy-Policy",
+         "url": "http://sumo.com"
+      }
+   },
+   "sundaysky.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement", "Embedded Content" ],
+      "owner": {
+         "displayName": "SundaySky",
+         "name": "SundaySky Ltd.",
+         "privacyPolicy": "https://sundaysky.com/privacy-policy/",
+         "url": "http://sundaysky.com"
+      }
+   },
+   "survata.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Survata",
+         "name": "Survata, Inc.",
+         "privacyPolicy": "https://www.survata.com/respondent-privacy-policy/",
+         "url": "http://survata.com"
+      }
+   },
+   "taboola.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Taboola",
+         "name": "Taboola, Inc."
+      }
+   },
+   "tapad.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Tapad",
+         "name": "Tapad, Inc.",
+         "privacyPolicy": "https://www.tapad.com/privacy-policy",
+         "url": "http://tapad.com"
+      }
+   },
+   "teads.tv": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Teads",
+         "name": "Teads ( Luxenbourg ) SA",
+         "privacyPolicy": "https://teads.tv/privacy-policy/",
+         "url": "http://teads.tv"
+      }
+   },
+   "tealiumiq.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing", "Action Pixels", "Session Replay" ],
+      "owner": {
+         "displayName": "Tealium",
+         "name": "Tealium Inc.",
+         "privacyPolicy": "https://tealium.com/privacy/",
+         "url": "http://tealium.com"
+      }
+   },
+   "technoratimedia.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud" ],
+      "owner": {
+         "displayName": "Synacor",
+         "name": "Synacor, Inc."
+      }
+   },
+   "theadex.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Virtual Minds",
+         "name": "Virtual Minds AG",
+         "privacyPolicy": "https://www.virtualminds.de/en/",
+         "url": "http://virtualminds.de"
+      }
+   },
+   "thebrighttag.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Signal Digital",
+         "name": "Signal Digital, Inc."
+      }
+   },
+   "thrtle.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Throtle",
+         "name": "Throtle"
+      }
+   },
+   "tidaltv.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Amobee",
+         "name": "Amobee, Inc"
+      }
+   },
+   "tinypass.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "SSO", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Piano Software",
+         "name": "Piano Software",
+         "privacyPolicy": "https://piano.io/privacy-policy/",
+         "url": "http://piano.io"
+      }
+   },
+   "tiqcdn.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Tealium",
+         "name": "Tealium Inc.",
+         "privacyPolicy": "https://tealium.com/privacy/",
+         "url": "http://tealium.com"
+      }
+   },
+   "tns-counter.ru": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "ADFACT",
+         "name": "JSC ADFACT"
+      }
+   },
+   "trackcmp.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Action Pixels" ],
+      "owner": {
+         "displayName": "ActiveCampaign",
+         "name": "ActiveCampaign, Inc."
+      }
+   },
+   "treasuredata.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "Treasure Data",
+         "name": "Treasure Data, Inc"
+      }
+   },
+   "tremorhub.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Telaria",
+         "name": "Telaria",
+         "privacyPolicy": "https://telaria.com/privacy-policy/",
+         "url": "http://telaria.com"
+      }
+   },
+   "tribalfusion.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Exponential Interactive",
+         "name": "Exponential Interactive Inc.",
+         "privacyPolicy": "http://exponential.com/privacy/",
+         "url": "http://exponential.com"
+      }
+   },
+   "tru.am": {
+      "categories": [ "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "trueAnthem",
+         "name": "trueAnthem Corp"
+      }
+   },
+   "trueleadid.com": {
+      "categories": [ "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Lead Intelligence",
+         "name": "Lead Intelligence, Inc.",
+         "privacyPolicy": "https://get.leadintelligence.co.uk/privacy-cookie-policy",
+         "url": "http://leadintelligence.co.uk"
+      }
+   },
+   "truoptik.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "21 Productions",
+         "name": "21 Productions",
+         "privacyPolicy": "https://www.truoptik.com/privacy-policy.php",
+         "url": "http://truoptik.com"
+      }
+   },
+   "trustarc.com": {
+      "categories": [ "Badge" ],
+      "owner": {
+         "displayName": "TrustArc",
+         "name": "TrustArc Inc.",
+         "privacyPolicy": "https://www.trustarc.com/privacy-policy/",
+         "url": "http://trustarc.com"
+      }
+   },
+   "truste.com": {
+      "categories": [ "Badge" ],
+      "owner": {
+         "displayName": "TrustArc",
+         "name": "TrustArc Inc.",
+         "privacyPolicy": "https://www.trustarc.com/privacy-policy/",
+         "url": "http://trustarc.com"
+      }
+   },
+   "trustpilot.com": {
+      "categories": [ "Analytics", "Embedded Content" ],
+      "owner": {
+         "displayName": "Trustpilot",
+         "name": "Trustpilot A/S",
+         "privacyPolicy": "https://uk.legal.trustpilot.com/end-user-privacy-terms",
+         "url": "http://trustpilot.com"
+      }
+   },
+   "trustx.org": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "DCN",
+         "name": "DCN",
+         "privacyPolicy": "https://trustx.org/rules/",
+         "url": "http://trustx.org"
+      }
+   },
+   "tsyndicate.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Action Pixels" ],
+      "owner": {
+         "displayName": "Traffic Stars",
+         "name": "Traffic Stars",
+         "privacyPolicy": "https://trafficstars.com/privacy-policy/",
+         "url": "http://trafficstars.com"
+      }
+   },
+   "turn.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Amobee",
+         "name": "Amobee, Inc"
+      }
+   },
+   "tvsquared.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "TVSquared",
+         "name": "TVSquared",
+         "privacyPolicy": "https://tvsquared.com/privacy-policy/",
+         "url": "http://tvsquared.com"
+      }
+   },
+   "twitter.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Federated Login", "Social - Comment", "Social - Share", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "Twitter",
+         "name": "Twitter, Inc.",
+         "privacyPolicy": "https://twitter.com/en/privacy",
+         "url": "http://twitter.com"
+      }
+   },
+   "tynt.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing", "Social - Share", "Action Pixels" ],
+      "owner": {
+         "displayName": "33Across",
+         "name": "33Across, Inc.",
+         "privacyPolicy": "https://33across.com/privacy-policy/",
+         "url": "http://33across.com"
+      }
+   },
+   "ubembed.com": {
+      "categories": [ "Analytics", "Action Pixels", "Embedded Content" ],
+      "owner": {
+         "displayName": "Unbounce",
+         "name": "Unbounce",
+         "privacyPolicy": "https://unbounce.com/privacy/",
+         "url": "http://unbounce.com"
+      }
+   },
+   "undertone.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Undertone Networks",
+         "name": "Undertone Networks",
+         "privacyPolicy": "https://www.undertone.com/privacy/",
+         "url": "http://undertone.com"
+      }
+   },
+   "unrulymedia.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Audience Measurement", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Unruly Group",
+         "name": "Unruly Group Limited",
+         "privacyPolicy": "https://unruly.co/privacy/",
+         "url": "http://unruly.co"
+      }
+   },
+   "upapi.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Blockthrough",
+         "name": "Blockthrough Inc."
+      }
+   },
+   "usabilla.com": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Usabilla",
+         "name": "Usabilla B.V.",
+         "privacyPolicy": "https://usabilla.com/privacy/",
+         "url": "http://usabilla.com"
+      }
+   },
+   "usemessages.com": {
+      "categories": [ "Embedded Content" ],
+      "owner": {
+         "displayName": "HubSpot",
+         "name": "HubSpot, Inc.",
+         "privacyPolicy": "https://legal.hubspot.com/privacy-policy",
+         "url": "http://hubspot.com"
+      }
+   },
+   "userreport.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Ad Fraud", "Analytics", "Audience Measurement" ],
+      "owner": {
+         "displayName": "AudienceProject",
+         "name": "AudienceProject",
+         "privacyPolicy": "https://privacy.audienceproject.com/",
+         "url": "http://audienceproject.com"
+      }
+   },
+   "videohub.tv": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Tremor Video DSP",
+         "name": "Tremor Video DSP",
+         "privacyPolicy": "https://www.tremorvideodsp.com/privacy-policy",
+         "url": "http://tremorvideodsp.com"
+      }
+   },
+   "viglink.com": {
+      "categories": [ "Advertising" ],
+      "owner": {
+         "displayName": "Sovrn Holdings",
+         "name": "Sovrn Holdings",
+         "privacyPolicy": "https://www.sovrn.com/sovrn-legal-policies/",
+         "url": "http://sovrn.com"
+      }
+   },
+   "visualwebsiteoptimizer.com": {
+      "categories": [ "Analytics", "Third-Party Analytics Marketing", "Session Replay" ],
+      "owner": {
+         "displayName": "Wingify",
+         "name": "Wingify",
+         "privacyPolicy": "https://wingify.com/privacy-policy",
+         "url": "http://wingify.com"
+      }
+   },
+   "vk.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Federated Login", "Social - Comment", "Social - Share", "Embedded Content", "Social Network" ],
+      "owner": {
+         "displayName": "Mail.Ru",
+         "name": "Mail.Ru Group, OOO"
+      }
+   },
+   "w55c.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "DataXu",
+         "name": "DataXu",
+         "privacyPolicy": "https://www.dataxu.com/about-us/privacy/data-collection-platform/",
+         "url": "http://dataxu.com"
+      }
+   },
+   "walmart.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Wal-Mart Stores",
+         "name": "Wal-Mart Stores, Inc.",
+         "privacyPolicy": "https://corporate.walmart.com/privacy-security/walmart-privacy-policy",
+         "url": "http://walmart.com"
+      }
+   },
+   "weborama.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Weborama",
+         "name": "Weborama",
+         "privacyPolicy": "https://weborama.com/en/privacy_en/",
+         "url": "http://weborama.com"
+      }
+   },
+   "weborama.fr": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "Weborama",
+         "name": "Weborama",
+         "privacyPolicy": "https://weborama.com/en/privacy_en/",
+         "url": "http://weborama.com"
+      }
+   },
+   "webvisor.org": {
+      "categories": [ "Session Replay" ],
+      "owner": {
+         "displayName": "Yandex",
+         "name": "Yandex LLC",
+         "privacyPolicy": "https://yandex.com/legal/privacy/",
+         "url": "http://yandex.com"
+      }
+   },
+   "wt-safetag.com": {
+      "categories": [ "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Webtrekk",
+         "name": "Webtrekk GmbH",
+         "privacyPolicy": "https://www.webtrekk.com/en/why-webtrekk/data-protection/",
+         "url": "http://webtrekk.com"
+      }
+   },
+   "xg4ken.com": {
+      "categories": [ "Ad Motivated Tracking" ],
+      "owner": {
+         "displayName": "Kenshoo TLD",
+         "name": "Kenshoo TLD",
+         "privacyPolicy": "https://kenshoo.com/privacy-policy/",
+         "url": "http://kenshoo.com"
+      }
+   },
+   "xiti.com": {
+      "categories": [ "Analytics" ],
+      "owner": {
+         "displayName": "AT Internet",
+         "name": "AT Internet",
+         "privacyPolicy": "https://www.atinternet.com/en/company/data-protection/data-collection-on-at-internets-sites/",
+         "url": "http://atinternet.com"
+      }
+   },
+   "xplosion.de": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "emetriq",
+         "name": "emetriq GmbH",
+         "privacyPolicy": "https://www.emetriq.com/datenschutz/",
+         "url": "http://emetriq.com"
+      }
+   },
+   "yadro.ru": {
+      "categories": [ "Ad Motivated Tracking", "Analytics", "Malware" ],
+      "owner": {
+         "displayName": "ECO PC - Complex Solutions",
+         "name": "OOO \"ECO PC - Complex Solutions\""
+      }
+   },
+   "yahoo.co.jp": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Yahoo Japan",
+         "name": "Yahoo Japan Corporation"
+      }
+   },
+   "yahoo.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "Federated Login" ],
+      "owner": {
+         "displayName": "Verizon Media",
+         "name": "Verizon Media",
+         "privacyPolicy": "https://www.verizon.com/about/privacy/privacy-policy-summary",
+         "url": "http://verizon.com"
+      }
+   },
+   "yandex.ru": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics", "Audience Measurement", "SSO", "Online Payment", "Action Pixels", "Embedded Content", "Session Replay" ],
+      "owner": {
+         "displayName": "Yandex",
+         "name": "Yandex LLC",
+         "privacyPolicy": "https://yandex.com/legal/privacy/",
+         "url": "http://yandex.com"
+      }
+   },
+   "yieldlab.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Virtual Minds",
+         "name": "Virtual Minds AG",
+         "privacyPolicy": "https://www.virtualminds.de/en/",
+         "url": "http://virtualminds.de"
+      }
+   },
+   "yieldlove-ad-serving.net": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Yieldlove",
+         "name": "Yieldlove GmbH",
+         "privacyPolicy": "https://www.yieldlove.com/privacy",
+         "url": "http://yieldlove.com"
+      }
+   },
+   "yieldmo.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "YieldMo",
+         "name": "YieldMo, Inc.",
+         "privacyPolicy": "http://www.yieldmo.com/privacy/",
+         "url": "http://yieldmo.com"
+      }
+   },
+   "yieldoptimizer.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Analytics" ],
+      "owner": {
+         "displayName": "WarnerMedia",
+         "name": "WarnerMedia, LLC"
+      }
+   },
+   "yimg.jp": {
+      "categories": [ "Ad Motivated Tracking", "Advertising" ],
+      "owner": {
+         "displayName": "Yahoo Japan",
+         "name": "Yahoo Japan Corporation"
+      }
+   },
+   "yotpo.com": {
+      "categories": [ "Advertising", "Third-Party Analytics Marketing", "Embedded Content" ],
+      "owner": {
+         "displayName": "Yotpo",
+         "name": "Yotpo Ltd",
+         "privacyPolicy": "https://www.yotpo.com/privacy-policy/",
+         "url": "http://yotpo.com"
+      }
+   },
+   "ywxi.net": {
+      "categories": [ "Badge" ],
+      "owner": {
+         "displayName": "PathDefender",
+         "name": "PathDefender"
+      }
+   },
+   "zemanta.com": {
+      "categories": [ "Ad Motivated Tracking", "Advertising", "Third-Party Analytics Marketing" ],
+      "owner": {
+         "displayName": "Outbrain",
+         "name": "Outbrain",
+         "privacyPolicy": "https://www.outbrain.com/legal/privacy",
+         "url": "http://outbrain.com"
+      }
+   },
+   "zopim.com": {
+      "categories": [ "Embedded Content" ],
+      "owner": {
+         "displayName": "Zendesk",
+         "name": "Zendesk, Inc.",
+         "privacyPolicy": "https://www.zendesk.com/company/customers-partners/privacy-policy/",
+         "url": "http://zendesk.com"
+      }
+   }
+}
