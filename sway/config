@@ -1,4 +1,4 @@
-### Variables
+
 set $mod          Mod1
 floating_modifier Mod4
 set $lock         swaylock-fancy -p -t ""
