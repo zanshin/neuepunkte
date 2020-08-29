@@ -13,7 +13,6 @@
     "modules-right": [
         "tray",
         "custom/storage",
-        "custom/storage-alt",
         "cpu",
         "memory",
         "temperature",
