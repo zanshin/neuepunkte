@@ -46,8 +46,8 @@ font pango:Hack 12
 font pango:FontAwesome 10
 
 # Gaps
-gaps outer 10
-gaps inner 40
+gaps outer 5
+gaps inner 20
 # smart_gaps on
 
 default_border           none
