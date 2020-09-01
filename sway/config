@@ -92,6 +92,8 @@ assign [class="^VSCodium$"] $ws5
 
 ### Float some windows
 for_window [class="Bitwarden"] floating enable
+for_window [app_id="thunar"] floating enable
+for_window [app_id="virt-manager"] floating enable
 
 ### Shortcuts
 bindsym $mod+Return     exec $term
@@ -261,8 +263,8 @@ mode "app" {
   # [v]irtual machine manager
   bindsym v exec
 
-  # [B]itwarden
-  bindsym shift+b exec bitwarden
+  # Bit[w]arden
+  bindsym w exec bitwarden
 
   # [t]mux new session
   bindsym t exec termite --exec="bash -ci 'tmux'"
@@ -272,11 +274,22 @@ mode "app" {
 bindsym $mod+space mode "app"
 bindsym --release $mod+space exec sleep $appmode_timeout && swaymsg mode "default"
 
+### nmtui window-let
+bindsym $mod+w exec $term --title="wifitui" -e nmtui-connect
+bindsym $mod+Shift+w exec $term --title="wifitui" -e nmtui
+for_window [title="wifitui"] floating enable
+# for_window [title="wifitui"] move absolute position 1900 41
+for_window [title="wifitui"] resize set width 800
+
 ### Waybar
 # exec_always ~/.config/waybar/waybar.sh
 
 ### Network Manager Applet
-exec_always nm-applet
+# exec_always nm-applet
+
+
+### mako notifications
+exec_always mako
 
 include /etc/sway/config.d/*
 
