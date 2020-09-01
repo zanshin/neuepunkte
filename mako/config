@@ -1,0 +1,29 @@
+# Global options
+max-visible=5
+sort=-time
+# output =
+layer=top
+anchor=bottom-right
+
+# Style options
+font=Hack 10
+background-color=#285577ff
+text-color=#FFFFFFFF
+width=300
+height=100
+margin=10
+padding=10
+border-size=1
+border-color=#4C7899FF
+border-radius=5
+progress-color=over #5588AAFF
+icons=1
+max-icon-size=64
+# icon-path =
+markup=1
+actions=1
+# format
+default-timeout=0
+ignore-timeout=0
+# group-by
+
