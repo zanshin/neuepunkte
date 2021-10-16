@@ -49,7 +49,7 @@
   border-left: none;
 }
 
-#mode, #battery, #cpu, #memory, #network, #pulseaudio, #idle_inhibitor, #backlight, #custom-storage, #custom-storage-alt, #custom-spotify, #custom-weather, #custom-mail, #clock, #temperature {
+#mode, #battery, #cpu, #memory, #network, #pulseaudio, #idle_inhibitor, #backlight, #custom-storage, #custom-storage-alt, #custom-spotify, #custom-weather, #custom-mail, #clock, #temperature #archicon {
   margin: 4px 2px;
   padding: 0 6px;
   background-color: @base02;
@@ -104,4 +104,7 @@
   color: @base08;
 }
 
+#archicon {
+  background-image: url("archicon.png");
+}
 
