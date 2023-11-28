@@ -4,8 +4,8 @@ floating_modifier Mod4
 set $lock         swaylock-fancy -p -t ""
 set $power        ~/.config/rofi/modi/power
 set $wifi         ~/.config/rofi/mofi/mncli
-# set $term        alacritty
-set $term         termite
+set $term        alacritty
+# set $term         termite
 
 set $menu    rofi -show drun -hide-scrollbar -lines 10 -width 20 -padding 30 -font "JetBrains Mono 11"
 set $rofiwin rofi -show window -hide-scrollbar -lines 10 -padding 30 -font "JetBrains Mono 11"

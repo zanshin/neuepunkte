@@ -131,3 +131,4 @@
 #prompt {
     padding: 3 7 3 0;
 }
+@theme "/usr/share/rofi/themes/sidebar.rasi"

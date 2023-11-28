@@ -3,8 +3,8 @@
 * {
   transition: none;
   box-shadow: none;
-  font-family: 'JetBrainsMono-Regular';
-  font-size: 12px;
+  font-family: 'JetBrainsMono-NL-Regular';
+  font-size: 15px;
 }
 
 #waybar {
