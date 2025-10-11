@@ -1,0 +1,68 @@
+{
+  "layer": "top",
+  "position": "right",
+  "height": 1000,
+  "width": 50,
+  "spacing": 0,
+  "modules-top": [
+    "custom/spacer-top",
+    "custom/os-logo",
+    "sway/workspaces",
+    "sway/mode"
+  ],
+  "modules-middle": [
+    "sway/window"
+  ],
+  "modules-bottom": [
+    "clock",
+    "custom/spacer-bottom"
+  ],
+  // module configurations
+  // "sway/window": {
+  //   "max-length": 50
+  // },
+  // custom module configurations
+  "custom/os-logo": {
+    "format": "",
+    "on-click": "rofi -show drun",
+    "tooltip": false
+  },
+  "custom/spacer-top": {
+    "format": "",
+    "interval": "once"
+  },
+  "custom/spacer-bottom": {
+    "format": "",
+    "interval": "once"
+  },
+  // workspaces
+  "sway/workspaces": {
+    "disable-scroll": false,
+    "all-outputs": true,
+    "format": "{icon}",
+    "format-icons": {
+      "1": "I",
+      "2": "II",
+      "3": "III",
+      "4": "IV",
+      "5": "V",
+      "urgent": "!",
+      "focused": "*",
+      "default": "-"
+    }
+  },
+  "sway/mode": {
+    "format": "{}",
+    "tooltip": false
+  },
+  "tray": {
+    "format": "{}",
+    "tooltip": false
+  },
+  "clock": {
+    "format": "{:%H\n%M}",
+    "format-alt": "{:%a\n%m/%d}",
+    "format-alt-click": "click-right",
+    "tooltip-format": "{:%Y-%m-%d\n%H:%M:%S}"
+  }
+}
